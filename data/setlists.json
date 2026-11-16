@@ -1,0 +1,342 @@
+{
+  "source": "Planning Center Services, Life Link Church, snapshot Nov 15, 2026",
+  "plans": [
+    {
+      "plan_id": "92180395",
+      "date": "2026-10-11",
+      "campus": "Gilbert",
+      "title": "Sunday Services",
+      "plan_url": "https://services.planningcenteronline.com/plans/92180395",
+      "songs": [
+        {
+          "title": "I Know That I Know",
+          "key": null
+        },
+        {
+          "title": "What A God",
+          "key": null
+        },
+        {
+          "title": "Build My Life",
+          "key": null
+        },
+        {
+          "title": "Great Are You Lord",
+          "key": null
+        }
+      ]
+    },
+    {
+      "plan_id": "92350666",
+      "date": "2026-10-18",
+      "campus": "QC",
+      "title": "Sunday Services",
+      "plan_url": "https://services.planningcenteronline.com/plans/92350666",
+      "songs": [
+        {
+          "title": "Good Times",
+          "key": null
+        },
+        {
+          "title": "All About You",
+          "key": null
+        },
+        {
+          "title": "Trust In God",
+          "key": null
+        },
+        {
+          "title": "Gratitude",
+          "key": null
+        }
+      ]
+    },
+    {
+      "plan_id": "92372947",
+      "date": "2026-10-28",
+      "campus": "Gilbert",
+      "title": "Wednesday Night Church",
+      "plan_url": "https://services.planningcenteronline.com/plans/92372947",
+      "songs": [
+        {
+          "title": "Good Times",
+          "key": null
+        },
+        {
+          "title": "All About You",
+          "key": null
+        },
+        {
+          "title": "Trust In God",
+          "key": null
+        },
+        {
+          "title": "Gratitude",
+          "key": null
+        },
+        {
+          "title": "Here I Am To Worship",
+          "key": null
+        },
+        {
+          "title": "No Matter How Long it Takes",
+          "key": null
+        },
+        {
+          "title": "Mighty Name Of Jesus",
+          "key": null
+        },
+        {
+          "title": "Take You At Your Word",
+          "key": null
+        }
+      ]
+    },
+    {
+      "plan_id": "92891686",
+      "date": "2026-11-01",
+      "campus": "Gilbert",
+      "title": "Sunday Services",
+      "plan_url": "https://services.planningcenteronline.com/plans/92891686",
+      "songs": [
+        {
+          "title": "How I Praise",
+          "key": null
+        },
+        {
+          "title": "I Know That I Know",
+          "key": null
+        },
+        {
+          "title": "What A God",
+          "key": null
+        },
+        {
+          "title": "Worthy",
+          "key": null
+        }
+      ]
+    },
+    {
+      "plan_id": "92705223",
+      "date": "2026-11-05",
+      "campus": "Gilbert",
+      "title": "Thursday",
+      "plan_url": "https://services.planningcenteronline.com/plans/92705223",
+      "songs": [
+        {
+          "title": "So So Good",
+          "key": null
+        },
+        {
+          "title": "Take You At Your Word",
+          "key": null
+        },
+        {
+          "title": "Good Plans",
+          "key": null
+        },
+        {
+          "title": "Sovereign",
+          "key": null
+        },
+        {
+          "title": "So So Good",
+          "key": null
+        }
+      ]
+    },
+    {
+      "plan_id": "92705240",
+      "date": "2026-11-06",
+      "campus": "Gilbert",
+      "title": "Friday",
+      "plan_url": "https://services.planningcenteronline.com/plans/92705240",
+      "songs": [
+        {
+          "title": "I Thank God",
+          "key": null
+        },
+        {
+          "title": "Good Plans",
+          "key": null
+        },
+        {
+          "title": "Goodness Of God",
+          "key": null
+        },
+        {
+          "title": "What A God",
+          "key": null
+        },
+        {
+          "title": "Build My Life",
+          "key": null
+        },
+        {
+          "title": "Worthy Of It All",
+          "key": null
+        },
+        {
+          "title": "Trust In God",
+          "key": null
+        }
+      ]
+    },
+    {
+      "plan_id": "92705296",
+      "date": "2026-11-07",
+      "campus": "Gilbert",
+      "title": "Saturday",
+      "plan_url": "https://services.planningcenteronline.com/plans/92705296",
+      "songs": [
+        {
+          "title": "Take You At Your Word",
+          "key": null
+        },
+        {
+          "title": "Sovereign",
+          "key": null
+        }
+      ]
+    },
+    {
+      "plan_id": "92891802",
+      "date": "2026-11-08",
+      "campus": "Gilbert/QC",
+      "title": "Sunday Services",
+      "plan_url": "https://services.planningcenteronline.com/plans/92891802",
+      "songs": [
+        {
+          "title": "All My Life",
+          "key": "E"
+        },
+        {
+          "title": "New Thing Coming",
+          "key": "D"
+        },
+        {
+          "title": "Good Plans",
+          "key": "C"
+        },
+        {
+          "title": "Sovereign",
+          "key": "C",
+          "note": "Bridge tag only"
+        }
+      ]
+    },
+    {
+      "plan_id": "92965445",
+      "date": "2026-11-15",
+      "campus": "Gilbert/QC",
+      "title": "Sunday Services",
+      "plan_url": "https://services.planningcenteronline.com/plans/92965445",
+      "songs": [
+        {
+          "title": "He Shall Be Praised",
+          "key": "E"
+        },
+        {
+          "title": "Another One",
+          "key": "G"
+        },
+        {
+          "title": "Good Plans",
+          "key": "G"
+        },
+        {
+          "title": "Sovereign",
+          "key": "G"
+        }
+      ]
+    },
+    {
+      "plan_id": "92984955",
+      "date": "2026-11-18",
+      "campus": "Gilbert",
+      "title": "Wednesday Night Church",
+      "plan_url": "https://services.planningcenteronline.com/plans/92984955",
+      "songs": [
+        {
+          "title": "He Shall Be Praised",
+          "key": "E"
+        },
+        {
+          "title": "All My Life",
+          "key": "E"
+        },
+        {
+          "title": "New Thing Coming",
+          "key": "D"
+        },
+        {
+          "title": "What A God",
+          "key": "D"
+        },
+        {
+          "title": "Do It Again",
+          "key": "D"
+        },
+        {
+          "title": "Worthy Of It All",
+          "key": "D"
+        },
+        {
+          "title": "I Thank God",
+          "key": "E"
+        }
+      ]
+    },
+    {
+      "plan_id": "93088697",
+      "date": "2026-11-22",
+      "campus": "Gilbert/QC",
+      "title": "Sunday Services",
+      "plan_url": "https://services.planningcenteronline.com/plans/93088697",
+      "songs": [
+        {
+          "title": "Faithfulness",
+          "key": "D"
+        },
+        {
+          "title": "Holy Ground",
+          "key": "D"
+        },
+        {
+          "title": "We're Ready",
+          "key": "G"
+        },
+        {
+          "title": "Believe For It",
+          "key": "G"
+        }
+      ]
+    },
+    {
+      "plan_id": "93090427",
+      "date": "2026-11-29",
+      "campus": "Gilbert/QC",
+      "title": "Sunday Services",
+      "plan_url": "https://services.planningcenteronline.com/plans/93090427",
+      "songs": [
+        {
+          "title": "So So Good",
+          "key": "G"
+        },
+        {
+          "title": "Goodness Of God",
+          "key": "G"
+        },
+        {
+          "title": "Good Plans",
+          "key": "G"
+        },
+        {
+          "title": "Who Else",
+          "key": "G"
+        }
+      ]
+    }
+  ]
+}
