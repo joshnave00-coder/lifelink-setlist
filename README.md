@@ -4,8 +4,10 @@ Private backup of the Life Link Church worship team rehearsal player, the Life L
 
 ## What is in here
 
-- `index.html`: the app itself, one self-contained page. Set-list-first: it opens on the next service set list, shows each song in plan order with its scheduled key, and tapping a song expands it to versions, lyrics, and charts. It plays a whole set in order, follows lyrics while listening, supports tap-to-mark, and pitch-shifts tracks to the scheduled key. It saves nothing; that is the static copy. The live app in Josh's Muse is server-backed and saves markers and settings.
+- `index.html`: the app itself, one self-contained page. Set-list-first: it opens on the next service set list, shows each song in plan order with its scheduled key, and tapping a song expands it to versions, lyrics, and charts. It plays a whole set in order, follows lyrics while listening, supports tap-to-mark, and pitch-shifts tracks to the scheduled key. It saves nothing; that is the static copy. The live app in Josh's Muse is server-backed and saves markers and settings. Album art and the logo are embedded in the page, so it needs no separate image files.
 - `data/setlists.json`: the 12 recent set lists (Oct 11 to Nov 29, 2026) with Planning Center plan links and scheduled keys where verified. Keys not listed there should be read from the plan.
+- `data/songs.json`: the full song catalog the app is built from: 29 songs, 122 recordings, 11 dated sets, and follow-along lyrics for 17 songs, with file names, keys, durations, and chart references. Album art is referenced by filename; the picture bytes live embedded in `index.html`.
+- `docs/life-link-setlist-build-spec.md`: the exact build spec for replicating this app perfectly in another person's Muse. Point your Muse at this file first. It covers the design tokens, every screen, every behavior rule, the data model, the media inventory, and a verification checklist.
 - `docs/life-link-setlist-build-guide.md`: the full guide for rebuilding this app in Muse from Planning Center, written for a band member (Holli Kelly, drums). It has a paste-ready prompt, the set lists, the feature list, and the gotchas.
 
 ## What is intentionally not in here

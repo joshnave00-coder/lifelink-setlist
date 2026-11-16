@@ -1,6 +1,6 @@
 # Build Your Own Life Link Setlist App
 
-A guide for Holli Kelly, drums on the Life Link worship team. Josh has a rehearsal player in his Muse called Life Link Setlist. It cannot be sent to another person's Muse, so this guide has everything your Muse needs to build you the same one in your own Muse. Paste the prompt in section 1 to your Muse, then answer its questions. Building it in your own Muse is the better version anyway: your markers and settings will save, which a shared copy cannot do.
+A guide for Holli Kelly, drums on the Life Link worship team. Josh has a rehearsal player in his Muse called Life Link Setlist. It cannot be sent to another person's Muse, so this guide has everything your Muse needs to build you the same one in your own Muse. Paste the prompt in section 1 to your Muse, then answer its questions. Building it in your own Muse is the better version anyway: your markers and settings will save, which a shared copy cannot do. For an exact replica, your Muse should also follow docs/life-link-setlist-build-spec.md in the same repo, which specifies the design, every screen, and every behavior rule exactly, and use data/songs.json as the song catalog.
 
 ## 1. The prompt to paste to your Muse
 

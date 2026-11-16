@@ -1,0 +1,7565 @@
+{
+  "meta": {
+    "source": "Extracted from the Life Link Setlist static copy (index.html) built Nov 15, 2026 from Josh Nave's live app. Album art is embedded in index.html as data URIs; this file references art by filename only.",
+    "counts": {
+      "songs": 29,
+      "tracks": 122,
+      "sets": 11,
+      "lyricSets": 17,
+      "chartRefs": 40
+    },
+    "notes": [
+      "Lyric timing values are fractions of the track duration (0.0 to 1.0), not seconds.",
+      "The embedded set list in index.html has 11 dated sets (Oct 18-Nov 29, 2026). The verified Planning Center plan list (12 plans, Oct 11-Nov 29) is in data/setlists.json; a fresh build should pull the plans live from Planning Center and the plans win if they differ.",
+      "Audio files and chart PDFs are not in this repo; restore them from Planning Center per README.md."
+    ]
+  },
+  "songs": [
+    {
+      "name": "Build My Life",
+      "versions": [
+        "build-my-life-full-c",
+        "build-my-life-tenor-c"
+      ],
+      "art": {
+        "file": "build-my-life.jpg",
+        "credit": "Pat Barrett · Pat Barrett"
+      },
+      "charts": []
+    },
+    {
+      "name": "Good Plans",
+      "versions": [
+        "good-plans-original-d",
+        "good-plans-full-c",
+        "good-plans-full-g",
+        "good-plans-alto-c",
+        "good-plans-tenor-c",
+        "good-plans-tenor-g",
+        "good-plans-alto-g",
+        "good-plans-soprano-g"
+      ],
+      "art": {
+        "file": "good-plans.jpg",
+        "credit": "Red Rocks Worship · Ascend"
+      },
+      "charts": [
+        {
+          "file": "good-plans-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "Sovereign",
+      "versions": [
+        "sovereign-c",
+        "sovereign-g-demo",
+        "sovereign-tenor-g",
+        "sovereign-alto-g",
+        "sovereign-singers-g",
+        "sovereign-soprano-g",
+        "sovereign-c-octave-down"
+      ],
+      "art": null,
+      "charts": [
+        {
+          "file": "sovereign-chart-g.pdf",
+          "label": "Chart in G",
+          "pages": 2
+        },
+        {
+          "file": "sovereign-chart-c.pdf",
+          "label": "Chart in C",
+          "pages": 2
+        },
+        {
+          "file": "sovereign-dc.pdf",
+          "label": "Directors Chart",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "name": "All My Life",
+      "versions": [
+        "all-my-life-live-e"
+      ],
+      "art": {
+        "file": "all-my-life.jpg",
+        "credit": "Planetshakers · Revival (Live)"
+      },
+      "charts": []
+    },
+    {
+      "name": "New Thing Coming",
+      "versions": [
+        "new-thing-coming-eb",
+        "new-thing-coming-d"
+      ],
+      "art": {
+        "file": "when-wind-meets-fire.jpg",
+        "credit": "Elevation Worship · When Wind Meets Fire"
+      },
+      "charts": []
+    },
+    {
+      "name": "So So Good",
+      "versions": [
+        "so-so-good-full-g",
+        "so-so-good-tenor-g",
+        "so-so-good-alto-g",
+        "so-so-good-soprano-g"
+      ],
+      "art": {
+        "file": "so-so-good.jpg",
+        "credit": "Phil Wickham · So So Good (Live)"
+      },
+      "charts": [
+        {
+          "file": "so-so-good-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "name": "Who Else",
+      "versions": [
+        "who-else-full-g",
+        "who-else-tenor-g"
+      ],
+      "art": {
+        "file": "who-else.jpg",
+        "credit": "Gateway Worship · Crowns Down (Live)"
+      },
+      "charts": [
+        {
+          "file": "who-else-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "He Shall Be Praised",
+      "versions": [
+        "he-shall-be-praised-full-e",
+        "he-shall-be-praised-tenor-e",
+        "he-shall-be-praised-alto-e",
+        "he-shall-be-praised-singers-e",
+        "he-shall-be-praised-soprano-e"
+      ],
+      "art": null,
+      "charts": [
+        {
+          "file": "he-shall-be-praised-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "Another One",
+      "versions": [
+        "another-one-full-g",
+        "another-one-tenor-g"
+      ],
+      "art": {
+        "file": "when-wind-meets-fire.jpg",
+        "credit": "Elevation Worship · When Wind Meets Fire"
+      },
+      "charts": [
+        {
+          "file": "another-one-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "name": "What A God",
+      "versions": [
+        "what-a-god-full-d",
+        "what-a-god-tenor-d",
+        "what-a-god-alto-d",
+        "what-a-god-soprano-d"
+      ],
+      "art": {
+        "file": "what-a-god.jpg",
+        "credit": "SEU Worship · Move of God (Live)"
+      },
+      "charts": [
+        {
+          "file": "what-a-god-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "Do It Again",
+      "versions": [
+        "do-it-again-full-d",
+        "do-it-again-tenor-d"
+      ],
+      "art": {
+        "file": "do-it-again.jpg",
+        "credit": "Elevation Worship · There Is a Cloud (Live)"
+      },
+      "charts": [
+        {
+          "file": "do-it-again-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "I Thank God",
+      "versions": [
+        "i-thank-god-full-e",
+        "i-thank-god-tenor-e",
+        "i-thank-god-alto-e",
+        "i-thank-god-singers-e",
+        "i-thank-god-soprano-e"
+      ],
+      "art": {
+        "file": "i-thank-god.jpg",
+        "credit": "Free Worship · My Soul Sings"
+      },
+      "charts": [
+        {
+          "file": "i-thank-god-dc.pdf",
+          "label": "Directors Chart",
+          "pages": 2
+        },
+        {
+          "file": "i-thank-god-chords-e.pdf",
+          "label": "Chords in E",
+          "pages": 2
+        },
+        {
+          "file": "i-thank-god-chords-db.pdf",
+          "label": "Chords in D♭",
+          "pages": 2
+        },
+        {
+          "file": "i-thank-god-chart-c.pdf",
+          "label": "SongSelect Chart in C",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "name": "Faithfulness",
+      "versions": [
+        "faithfulness-full-d",
+        "faithfulness-tenor-d"
+      ],
+      "art": {
+        "file": "faithfulness.jpg",
+        "credit": "Lakewood Music · Oh How Worthy (Live)"
+      },
+      "charts": [
+        {
+          "file": "faithfulness-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "Holy Ground",
+      "versions": [
+        "holy-ground-full-d",
+        "holy-ground-tenor-d",
+        "holy-ground-singers-d",
+        "holy-ground-soprano-d"
+      ],
+      "art": {
+        "file": "holy-ground.jpg",
+        "credit": "Passion · Worthy Of Your Name (Live)"
+      },
+      "charts": [
+        {
+          "file": "holy-ground-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "We're Ready",
+      "versions": [
+        "were-ready-full-g",
+        "were-ready-tenor-g",
+        "were-ready-alto-g",
+        "were-ready-singers-g",
+        "were-ready-soprano-g"
+      ],
+      "art": {
+        "file": "were-ready.jpg",
+        "credit": "Cross Point Music · Never Going Back"
+      },
+      "charts": [
+        {
+          "file": "were-ready-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "Believe For It",
+      "versions": [
+        "believe-for-it-full-g",
+        "believe-for-it-tenor-g",
+        "believe-for-it-alto-g",
+        "believe-for-it-singers-g",
+        "believe-for-it-soprano-g"
+      ],
+      "art": {
+        "file": "believe-for-it.jpg",
+        "credit": "CeCe Winans · Believe For It"
+      },
+      "charts": [
+        {
+          "file": "believe-for-it-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "name": "Goodness Of God",
+      "versions": [
+        "goodness-of-god-full-g",
+        "goodness-of-god-tenor-g",
+        "goodness-of-god-alto-g",
+        "goodness-of-god-singers-g",
+        "goodness-of-god-soprano-g"
+      ],
+      "art": {
+        "file": "goodness-of-god.jpg",
+        "credit": "Church of the City · Defiant Joy (Live)"
+      },
+      "charts": [
+        {
+          "file": "goodness-of-god-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "All About You",
+      "versions": [
+        "all-about-you-full-e",
+        "all-about-you-tenor-e",
+        "all-about-you-alto-e",
+        "all-about-you-singers-e",
+        "all-about-you-soprano-e"
+      ],
+      "art": {
+        "file": "all-about-you.jpg",
+        "credit": "Passion · I've Witnessed It (Live)"
+      },
+      "charts": [
+        {
+          "file": "all-about-you-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "Take You At Your Word",
+      "versions": [
+        "take-you-at-your-word-full-e",
+        "take-you-at-your-word-tenor-e",
+        "take-you-at-your-word-alto-e",
+        "take-you-at-your-word-singers-e",
+        "take-you-at-your-word-soprano-e"
+      ],
+      "art": {
+        "file": "take-you-at-your-word.jpg",
+        "credit": "Cody Carnes · God Is Good! (Live)"
+      },
+      "charts": [
+        {
+          "file": "take-you-at-your-word-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "Here I Am To Worship",
+      "versions": [
+        "here-i-am-to-worship-full-e"
+      ],
+      "art": {
+        "file": "here-i-am-to-worship.jpg",
+        "credit": "Tim Hughes · Here I Am to Worship"
+      },
+      "charts": [
+        {
+          "file": "here-i-am-to-worship-chart-e.pdf",
+          "label": "Chart in E",
+          "pages": 1
+        },
+        {
+          "file": "here-i-am-to-worship-dc.pdf",
+          "label": "Directors Chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "No Matter How Long It Takes",
+      "versions": [
+        "no-matter-how-long-full-e",
+        "no-matter-how-long-tenor-e",
+        "no-matter-how-long-alto-e",
+        "no-matter-how-long-singers-e",
+        "no-matter-how-long-soprano-e"
+      ],
+      "art": {
+        "file": "no-matter-how-long.jpg",
+        "credit": "Cross Point Music · Cross Point Music EP"
+      },
+      "charts": [
+        {
+          "file": "no-matter-how-long-dc.pdf",
+          "label": "Directors Chart",
+          "pages": 2
+        },
+        {
+          "file": "no-matter-how-long-numbers-e.pdf",
+          "label": "Cross Point Chart in E · Numbers",
+          "pages": 2
+        },
+        {
+          "file": "no-matter-how-long-chart-e.pdf",
+          "label": "Cross Point Chart in E",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "name": "Mighty Name Of Jesus",
+      "versions": [
+        "mighty-name-of-jesus-full-e",
+        "mighty-name-of-jesus-tenor-e",
+        "mighty-name-of-jesus-alto-e",
+        "mighty-name-of-jesus-singers-e",
+        "mighty-name-of-jesus-soprano-e"
+      ],
+      "art": {
+        "file": "eden-live.jpg",
+        "credit": "The Belonging Co · Eden (Live)"
+      },
+      "charts": [
+        {
+          "file": "mighty-name-of-jesus-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "name": "How I Praise",
+      "versions": [
+        "how-i-praise-full-d",
+        "how-i-praise-tenor-d",
+        "how-i-praise-alto-d",
+        "how-i-praise-singers-d",
+        "how-i-praise-soprano-d"
+      ],
+      "art": {
+        "file": "how-i-praise.jpg",
+        "credit": "Planetshakers · Glory, Pt. 1 (Live)"
+      },
+      "charts": [
+        {
+          "file": "how-i-praise-chart-d.pdf",
+          "label": "SongSelect Chart in D",
+          "pages": 2
+        },
+        {
+          "file": "how-i-praise-dc.pdf",
+          "label": "Directors Chart",
+          "pages": 2
+        },
+        {
+          "file": "how-i-praise-chart-c.pdf",
+          "label": "SongSelect Chart in C",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "name": "I Know That I Know",
+      "versions": [
+        "i-know-that-i-know-full-d",
+        "i-know-that-i-know-tenor-d",
+        "i-know-that-i-know-alto-d",
+        "i-know-that-i-know-singers-d",
+        "i-know-that-i-know-soprano-d"
+      ],
+      "art": {
+        "file": "eden-live.jpg",
+        "credit": "The Belonging Co · Eden (Live)"
+      },
+      "charts": [
+        {
+          "file": "i-know-that-i-know-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "name": "Worthy",
+      "versions": [
+        "worthy-full-d",
+        "worthy-tenor-d",
+        "worthy-alto-d",
+        "worthy-singers-d",
+        "worthy-soprano-d"
+      ],
+      "art": {
+        "file": "worthy.jpg",
+        "credit": "Elevation Worship · Hallelujah Here Below"
+      },
+      "charts": [
+        {
+          "file": "worthy-chart-d.pdf",
+          "label": "SongSelect Chart in D",
+          "pages": 2
+        },
+        {
+          "file": "worthy-dc.pdf",
+          "label": "Directors Chart",
+          "pages": 2
+        },
+        {
+          "file": "worthy-chart-eb.pdf",
+          "label": "SongSelect Chart in E♭",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "name": "Good Times",
+      "versions": [
+        "good-times-full-e",
+        "good-times-tenor-e",
+        "good-times-alto-e",
+        "good-times-singers-e",
+        "good-times-soprano-e"
+      ],
+      "art": {
+        "file": "eden-live.jpg",
+        "credit": "The Belonging Co · Eden (Live)"
+      },
+      "charts": [
+        {
+          "file": "good-times-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "Trust In God",
+      "versions": [
+        "trust-in-god-full-e",
+        "trust-in-god-tenor-e",
+        "trust-in-god-alto-e",
+        "trust-in-god-singers-e",
+        "trust-in-god-soprano-e"
+      ],
+      "art": {
+        "file": "trust-in-god.jpg",
+        "credit": "Elevation Worship · CAN YOU IMAGINE?"
+      },
+      "charts": [
+        {
+          "file": "trust-in-god-chart-e.pdf",
+          "label": "SongSelect Chart in E",
+          "pages": 2
+        },
+        {
+          "file": "trust-in-god-dc.pdf",
+          "label": "Directors Chart",
+          "pages": 2
+        },
+        {
+          "file": "trust-in-god-chart-c.pdf",
+          "label": "SongSelect Chart in C",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "name": "Gratitude",
+      "versions": [
+        "gratitude-full-c",
+        "gratitude-alto-c",
+        "gratitude-singers-c",
+        "gratitude-soprano-c",
+        "gratitude-tenor-c"
+      ],
+      "art": {
+        "file": "gratitude.jpg",
+        "credit": "Brandon Lake · House of Miracles"
+      },
+      "charts": [
+        {
+          "file": "gratitude-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "name": "Great Are You Lord",
+      "versions": [
+        "great-are-you-lord-full-d",
+        "great-are-you-lord-alto-d",
+        "great-are-you-lord-bass-d",
+        "great-are-you-lord-singers-d",
+        "great-are-you-lord-soprano-d",
+        "great-are-you-lord-tenor-d"
+      ],
+      "art": {
+        "file": "great-are-you-lord.jpg",
+        "credit": "All Sons & Daughters · All Sons & Daughters"
+      },
+      "charts": [
+        {
+          "file": "great-are-you-lord-lyrics.pdf",
+          "label": "Lyrics & Chords chart",
+          "pages": 1
+        }
+      ]
+    }
+  ],
+  "tracks": {
+    "build-my-life-full-c": {
+      "title": "Build My Life",
+      "base": "Build My Life",
+      "label": "Full mix",
+      "sub": "Full mix, key of C",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 459,
+      "file": "build-my-life-full-c.m4a",
+      "lyricKey": "build"
+    },
+    "build-my-life-tenor-c": {
+      "title": "Build My Life (Tenor)",
+      "base": "Build My Life",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of C",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 394,
+      "file": "build-my-life-tenor-c.m4a",
+      "lyricKey": "build"
+    },
+    "good-plans-alto-c": {
+      "title": "Good Plans (Alto)",
+      "base": "Good Plans",
+      "label": "Alto part",
+      "sub": "Alto part track, key of C",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 348,
+      "file": "good-plans-alto-c.m4a",
+      "lyricKey": "good"
+    },
+    "good-plans-tenor-c": {
+      "title": "Good Plans (Tenor)",
+      "base": "Good Plans",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of C",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 348,
+      "file": "good-plans-tenor-c.m4a",
+      "lyricKey": "good"
+    },
+    "sovereign-c": {
+      "title": "Sovereign",
+      "base": "Sovereign",
+      "label": "Demo",
+      "sub": "Demo, key of C",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 282,
+      "file": "sovereign-c.m4a",
+      "lyricKey": "sovereign"
+    },
+    "sovereign-c-octave-down": {
+      "title": "Sovereign (Octave Down)",
+      "base": "Sovereign",
+      "label": "Octave Down demo",
+      "sub": "Demo, key of C, octave down",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 282,
+      "file": "sovereign-c-octave-down.m4a",
+      "lyricKey": "sovereign"
+    },
+    "all-my-life-live-e": {
+      "title": "All My Life",
+      "base": "All My Life",
+      "label": "Live version",
+      "sub": "Live version, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 246,
+      "file": "all-my-life-live-e.mp3",
+      "lyricKey": "allmylife"
+    },
+    "new-thing-coming-eb": {
+      "title": "New Thing Coming",
+      "base": "New Thing Coming",
+      "label": "Original version",
+      "sub": "Original version, key of Eb",
+      "key": "Key of E♭",
+      "keyName": "EB",
+      "dur": 474,
+      "file": "new-thing-coming-eb.m4a",
+      "lyricKey": "newthing"
+    },
+    "new-thing-coming-d": {
+      "title": "New Thing Coming",
+      "base": "New Thing Coming",
+      "label": "Transposed version",
+      "sub": "Transposed version, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 474,
+      "file": "new-thing-coming-d.mp3",
+      "lyricKey": "newthing"
+    },
+    "good-plans-original-d": {
+      "title": "Good Plans",
+      "base": "Good Plans",
+      "label": "Original version",
+      "sub": "Original version, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 347,
+      "file": "good-plans-original-d.m4a",
+      "lyricKey": "good"
+    },
+    "good-plans-full-c": {
+      "title": "Good Plans",
+      "base": "Good Plans",
+      "label": "Full version",
+      "sub": "Full version, key of C",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 347,
+      "file": "good-plans-full-c.mp3",
+      "lyricKey": "good"
+    },
+    "so-so-good-full-g": {
+      "title": "So So Good",
+      "base": "So So Good",
+      "label": "Live version",
+      "sub": "Live version, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 289,
+      "file": "so-so-good-full-g.mp3",
+      "lyricKey": "sosogood"
+    },
+    "so-so-good-tenor-g": {
+      "title": "So So Good (Tenor)",
+      "base": "So So Good",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 232,
+      "file": "so-so-good-tenor-g.m4a",
+      "lyricKey": "sosogood"
+    },
+    "who-else-full-g": {
+      "title": "Who Else",
+      "base": "Who Else",
+      "label": "Live version",
+      "sub": "Live version, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 291,
+      "file": "who-else-full-g.mp3",
+      "lyricKey": "whoelse"
+    },
+    "who-else-tenor-g": {
+      "title": "Who Else (Tenor)",
+      "base": "Who Else",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 291,
+      "file": "who-else-tenor-g.m4a",
+      "lyricKey": "whoelse"
+    },
+    "he-shall-be-praised-full-e": {
+      "title": "He Shall Be Praised",
+      "base": "He Shall Be Praised",
+      "label": "Live version",
+      "sub": "Live version, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 372,
+      "file": "he-shall-be-praised-full-e.mp3",
+      "lyricKey": null
+    },
+    "he-shall-be-praised-tenor-e": {
+      "title": "He Shall Be Praised (Tenor)",
+      "base": "He Shall Be Praised",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 260,
+      "file": "he-shall-be-praised-tenor-e.m4a",
+      "lyricKey": null
+    },
+    "another-one-full-g": {
+      "title": "Another One",
+      "base": "Another One",
+      "label": "Full version",
+      "sub": "Full version, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 392,
+      "file": "another-one-full-g.mp3",
+      "lyricKey": "anotherone"
+    },
+    "another-one-tenor-g": {
+      "title": "Another One (Tenor)",
+      "base": "Another One",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 342,
+      "file": "another-one-tenor-g.m4a",
+      "lyricKey": "anotherone"
+    },
+    "good-plans-full-g": {
+      "title": "Good Plans",
+      "base": "Good Plans",
+      "label": "Full version",
+      "sub": "Full version, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 347,
+      "file": "good-plans-full-g.mp3",
+      "lyricKey": "good"
+    },
+    "good-plans-tenor-g": {
+      "title": "Good Plans (Tenor)",
+      "base": "Good Plans",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 348,
+      "file": "good-plans-tenor-g.m4a",
+      "lyricKey": "good"
+    },
+    "sovereign-g-demo": {
+      "title": "Sovereign",
+      "base": "Sovereign",
+      "label": "Demo",
+      "sub": "Demo, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 282,
+      "file": "sovereign-g-demo.m4a",
+      "lyricKey": "sovereign"
+    },
+    "sovereign-tenor-g": {
+      "title": "Sovereign (Tenor)",
+      "base": "Sovereign",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 282,
+      "file": "sovereign-tenor-g.m4a",
+      "lyricKey": "sovereign"
+    },
+    "what-a-god-full-d": {
+      "title": "What A God",
+      "base": "What A God",
+      "label": "Live version",
+      "sub": "Live version, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 435,
+      "file": "what-a-god-full-d.mp3",
+      "lyricKey": "whatagod"
+    },
+    "what-a-god-tenor-d": {
+      "title": "What A God (Tenor)",
+      "base": "What A God",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 315,
+      "file": "what-a-god-tenor-d.m4a",
+      "lyricKey": "whatagod"
+    },
+    "do-it-again-full-d": {
+      "title": "Do It Again",
+      "base": "Do It Again",
+      "label": "Full version",
+      "sub": "Full version, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 402,
+      "file": "do-it-again-full-d.mp3",
+      "lyricKey": "doitagain"
+    },
+    "do-it-again-tenor-d": {
+      "title": "Do It Again (Tenor)",
+      "base": "Do It Again",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 318,
+      "file": "do-it-again-tenor-d.m4a",
+      "lyricKey": "doitagain"
+    },
+    "i-thank-god-full-e": {
+      "title": "I Thank God",
+      "base": "I Thank God",
+      "label": "Full version",
+      "sub": "Full version, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 350,
+      "file": "i-thank-god-full-e.mp3",
+      "lyricKey": "ithankgod"
+    },
+    "i-thank-god-tenor-e": {
+      "title": "I Thank God (Tenor)",
+      "base": "I Thank God",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 350,
+      "file": "i-thank-god-tenor-e.m4a",
+      "lyricKey": "ithankgod"
+    },
+    "faithfulness-full-d": {
+      "title": "Faithfulness",
+      "base": "Faithfulness",
+      "label": "Live version",
+      "sub": "Live version, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 286,
+      "file": "faithfulness-full-d.mp3",
+      "lyricKey": "faithfulness"
+    },
+    "faithfulness-tenor-d": {
+      "title": "Faithfulness (Tenor)",
+      "base": "Faithfulness",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 269,
+      "file": "faithfulness-tenor-d.m4a",
+      "lyricKey": "faithfulness"
+    },
+    "holy-ground-full-d": {
+      "title": "Holy Ground",
+      "base": "Holy Ground",
+      "label": "Live version",
+      "sub": "Live version, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 329,
+      "file": "holy-ground-full-d.m4a",
+      "lyricKey": "holyground"
+    },
+    "holy-ground-tenor-d": {
+      "title": "Holy Ground (Tenor)",
+      "base": "Holy Ground",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 323,
+      "file": "holy-ground-tenor-d.m4a",
+      "lyricKey": "holyground"
+    },
+    "were-ready-full-g": {
+      "title": "We're Ready",
+      "base": "We're Ready",
+      "label": "Full version",
+      "sub": "Full version, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 304,
+      "file": "were-ready-full-g.mp3",
+      "lyricKey": "wereready"
+    },
+    "were-ready-tenor-g": {
+      "title": "We're Ready (Tenor)",
+      "base": "We're Ready",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 303,
+      "file": "were-ready-tenor-g.m4a",
+      "lyricKey": "wereready"
+    },
+    "believe-for-it-full-g": {
+      "title": "Believe For It",
+      "base": "Believe For It",
+      "label": "Live version",
+      "sub": "Live version, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 502,
+      "file": "believe-for-it-full-g.m4a",
+      "lyricKey": "believeforit"
+    },
+    "believe-for-it-tenor-g": {
+      "title": "Believe For It (Tenor)",
+      "base": "Believe For It",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 229,
+      "file": "believe-for-it-tenor-g.m4a",
+      "lyricKey": "believeforit"
+    },
+    "goodness-of-god-full-g": {
+      "title": "Goodness Of God",
+      "base": "Goodness Of God",
+      "label": "Live version",
+      "sub": "Live version, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 349,
+      "file": "goodness-of-god-full-g.m4a",
+      "lyricKey": "goodnessofgod"
+    },
+    "goodness-of-god-tenor-g": {
+      "title": "Goodness Of God (Tenor)",
+      "base": "Goodness Of God",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 259,
+      "file": "goodness-of-god-tenor-g.m4a",
+      "lyricKey": "goodnessofgod"
+    },
+    "all-about-you-full-e": {
+      "title": "All About You",
+      "base": "All About You",
+      "label": "Live version",
+      "sub": "Live version, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 381,
+      "file": "all-about-you-full-e.mp3",
+      "lyricKey": null
+    },
+    "all-about-you-tenor-e": {
+      "title": "All About You (Tenor)",
+      "base": "All About You",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 303,
+      "file": "all-about-you-tenor-e.m4a",
+      "lyricKey": null
+    },
+    "take-you-at-your-word-full-e": {
+      "title": "Take You At Your Word",
+      "base": "Take You At Your Word",
+      "label": "Live version",
+      "sub": "Live version, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 316,
+      "file": "take-you-at-your-word-full-e.mp3",
+      "lyricKey": null
+    },
+    "take-you-at-your-word-tenor-e": {
+      "title": "Take You At Your Word (Tenor)",
+      "base": "Take You At Your Word",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 317,
+      "file": "take-you-at-your-word-tenor-e.m4a",
+      "lyricKey": null
+    },
+    "here-i-am-to-worship-full-e": {
+      "title": "Here I Am To Worship",
+      "base": "Here I Am To Worship",
+      "label": "Full version",
+      "sub": "Full version, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 397,
+      "file": "here-i-am-to-worship-full-e.mp3",
+      "lyricKey": null
+    },
+    "no-matter-how-long-full-e": {
+      "title": "No Matter How Long It Takes",
+      "base": "No Matter How Long It Takes",
+      "label": "Full version",
+      "sub": "Full version, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 293,
+      "file": "no-matter-how-long-full-e.mp3",
+      "lyricKey": null
+    },
+    "no-matter-how-long-tenor-e": {
+      "title": "No Matter How Long It Takes (Tenor)",
+      "base": "No Matter How Long It Takes",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 289,
+      "file": "no-matter-how-long-tenor-e.m4a",
+      "lyricKey": null
+    },
+    "mighty-name-of-jesus-full-e": {
+      "title": "Mighty Name Of Jesus",
+      "base": "Mighty Name Of Jesus",
+      "label": "Live version",
+      "sub": "Live version, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 483,
+      "file": "mighty-name-of-jesus-full-e.mp3",
+      "lyricKey": null
+    },
+    "mighty-name-of-jesus-tenor-e": {
+      "title": "Mighty Name Of Jesus (Tenor)",
+      "base": "Mighty Name Of Jesus",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 284,
+      "file": "mighty-name-of-jesus-tenor-e.m4a",
+      "lyricKey": null
+    },
+    "how-i-praise-full-d": {
+      "title": "How I Praise",
+      "base": "How I Praise",
+      "label": "Live version",
+      "sub": "Live version, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 193,
+      "file": "how-i-praise-full-d.mp3",
+      "lyricKey": null
+    },
+    "how-i-praise-tenor-d": {
+      "title": "How I Praise (Tenor)",
+      "base": "How I Praise",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 193,
+      "file": "how-i-praise-tenor-d.m4a",
+      "lyricKey": null
+    },
+    "i-know-that-i-know-full-d": {
+      "title": "I Know That I Know",
+      "base": "I Know That I Know",
+      "label": "Live version",
+      "sub": "Live version, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 314,
+      "file": "i-know-that-i-know-full-d.mp3",
+      "lyricKey": null
+    },
+    "i-know-that-i-know-tenor-d": {
+      "title": "I Know That I Know (Tenor)",
+      "base": "I Know That I Know",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 315,
+      "file": "i-know-that-i-know-tenor-d.m4a",
+      "lyricKey": null
+    },
+    "worthy-full-d": {
+      "title": "Worthy",
+      "base": "Worthy",
+      "label": "Full version",
+      "sub": "Full version, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 372,
+      "file": "worthy-full-d.mp3",
+      "lyricKey": null
+    },
+    "worthy-tenor-d": {
+      "title": "Worthy (Tenor)",
+      "base": "Worthy",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 373,
+      "file": "worthy-tenor-d.m4a",
+      "lyricKey": null
+    },
+    "good-times-full-e": {
+      "title": "Good Times",
+      "base": "Good Times",
+      "label": "Live version",
+      "sub": "Live version, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 254,
+      "file": "good-times-full-e.mp3",
+      "lyricKey": null
+    },
+    "good-times-tenor-e": {
+      "title": "Good Times (Tenor)",
+      "base": "Good Times",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 254,
+      "file": "good-times-tenor-e.m4a",
+      "lyricKey": null
+    },
+    "trust-in-god-full-e": {
+      "title": "Trust In God",
+      "base": "Trust In God",
+      "label": "Full version",
+      "sub": "Full version, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 442,
+      "file": "trust-in-god-full-e.mp3",
+      "lyricKey": null
+    },
+    "trust-in-god-tenor-e": {
+      "title": "Trust In God (Tenor)",
+      "base": "Trust In God",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 361,
+      "file": "trust-in-god-tenor-e.m4a",
+      "lyricKey": null
+    },
+    "holy-ground-singers-d": {
+      "title": "Holy Ground (Singers)",
+      "base": "Holy Ground",
+      "label": "Singers part",
+      "sub": "Singers part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 323,
+      "file": "holy-ground-singers-d.m4a",
+      "lyricKey": "holyground"
+    },
+    "holy-ground-soprano-d": {
+      "title": "Holy Ground (Soprano)",
+      "base": "Holy Ground",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 323,
+      "file": "holy-ground-soprano-d.m4a",
+      "lyricKey": "holyground"
+    },
+    "were-ready-alto-g": {
+      "title": "We're Ready (Alto)",
+      "base": "We're Ready",
+      "label": "Alto part",
+      "sub": "Alto part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 303,
+      "file": "were-ready-alto-g.m4a",
+      "lyricKey": "wereready"
+    },
+    "were-ready-singers-g": {
+      "title": "We're Ready (Singers)",
+      "base": "We're Ready",
+      "label": "Singers part",
+      "sub": "Singers part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 303,
+      "file": "were-ready-singers-g.m4a",
+      "lyricKey": "wereready"
+    },
+    "were-ready-soprano-g": {
+      "title": "We're Ready (Soprano)",
+      "base": "We're Ready",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 303,
+      "file": "were-ready-soprano-g.m4a",
+      "lyricKey": "wereready"
+    },
+    "believe-for-it-alto-g": {
+      "title": "Believe For It (Alto)",
+      "base": "Believe For It",
+      "label": "Alto part",
+      "sub": "Alto part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 229,
+      "file": "believe-for-it-alto-g.m4a",
+      "lyricKey": "believeforit"
+    },
+    "believe-for-it-singers-g": {
+      "title": "Believe For It (Singers)",
+      "base": "Believe For It",
+      "label": "Singers part",
+      "sub": "Singers part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 229,
+      "file": "believe-for-it-singers-g.m4a",
+      "lyricKey": "believeforit"
+    },
+    "believe-for-it-soprano-g": {
+      "title": "Believe For It (Soprano)",
+      "base": "Believe For It",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 229,
+      "file": "believe-for-it-soprano-g.m4a",
+      "lyricKey": "believeforit"
+    },
+    "goodness-of-god-alto-g": {
+      "title": "Goodness Of God (Alto)",
+      "base": "Goodness Of God",
+      "label": "Alto part",
+      "sub": "Alto part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 259,
+      "file": "goodness-of-god-alto-g.m4a",
+      "lyricKey": "goodnessofgod"
+    },
+    "goodness-of-god-singers-g": {
+      "title": "Goodness Of God (Singers)",
+      "base": "Goodness Of God",
+      "label": "Singers part",
+      "sub": "Singers part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 259,
+      "file": "goodness-of-god-singers-g.m4a",
+      "lyricKey": "goodnessofgod"
+    },
+    "goodness-of-god-soprano-g": {
+      "title": "Goodness Of God (Soprano)",
+      "base": "Goodness Of God",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 259,
+      "file": "goodness-of-god-soprano-g.m4a",
+      "lyricKey": "goodnessofgod"
+    },
+    "good-times-alto-e": {
+      "title": "Good Times (Alto)",
+      "base": "Good Times",
+      "label": "Alto part",
+      "sub": "Alto part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 254,
+      "file": "good-times-alto-e.m4a",
+      "lyricKey": null
+    },
+    "good-times-singers-e": {
+      "title": "Good Times (Singers)",
+      "base": "Good Times",
+      "label": "Singers part",
+      "sub": "Singers part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 254,
+      "file": "good-times-singers-e.m4a",
+      "lyricKey": null
+    },
+    "good-times-soprano-e": {
+      "title": "Good Times (Soprano)",
+      "base": "Good Times",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 254,
+      "file": "good-times-soprano-e.m4a",
+      "lyricKey": null
+    },
+    "all-about-you-alto-e": {
+      "title": "All About You (Alto)",
+      "base": "All About You",
+      "label": "Alto part",
+      "sub": "Alto part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 303,
+      "file": "all-about-you-alto-e.m4a",
+      "lyricKey": null
+    },
+    "all-about-you-singers-e": {
+      "title": "All About You (Singers)",
+      "base": "All About You",
+      "label": "Singers part",
+      "sub": "Singers part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 303,
+      "file": "all-about-you-singers-e.m4a",
+      "lyricKey": null
+    },
+    "all-about-you-soprano-e": {
+      "title": "All About You (Soprano)",
+      "base": "All About You",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 303,
+      "file": "all-about-you-soprano-e.m4a",
+      "lyricKey": null
+    },
+    "trust-in-god-alto-e": {
+      "title": "Trust In God (Alto)",
+      "base": "Trust In God",
+      "label": "Alto part",
+      "sub": "Alto part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 361,
+      "file": "trust-in-god-alto-e.m4a",
+      "lyricKey": null
+    },
+    "trust-in-god-singers-e": {
+      "title": "Trust In God (Singers)",
+      "base": "Trust In God",
+      "label": "Singers part",
+      "sub": "Singers part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 361,
+      "file": "trust-in-god-singers-e.m4a",
+      "lyricKey": null
+    },
+    "trust-in-god-soprano-e": {
+      "title": "Trust In God (Soprano)",
+      "base": "Trust In God",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 361,
+      "file": "trust-in-god-soprano-e.m4a",
+      "lyricKey": null
+    },
+    "take-you-at-your-word-alto-e": {
+      "title": "Take You At Your Word (Alto)",
+      "base": "Take You At Your Word",
+      "label": "Alto part",
+      "sub": "Alto part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 317,
+      "file": "take-you-at-your-word-alto-e.m4a",
+      "lyricKey": null
+    },
+    "take-you-at-your-word-singers-e": {
+      "title": "Take You At Your Word (Singers)",
+      "base": "Take You At Your Word",
+      "label": "Singers part",
+      "sub": "Singers part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 317,
+      "file": "take-you-at-your-word-singers-e.m4a",
+      "lyricKey": null
+    },
+    "take-you-at-your-word-soprano-e": {
+      "title": "Take You At Your Word (Soprano)",
+      "base": "Take You At Your Word",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 317,
+      "file": "take-you-at-your-word-soprano-e.m4a",
+      "lyricKey": null
+    },
+    "no-matter-how-long-alto-e": {
+      "title": "No Matter How Long It Takes (Alto)",
+      "base": "No Matter How Long It Takes",
+      "label": "Alto part",
+      "sub": "Alto part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 289,
+      "file": "no-matter-how-long-alto-e.m4a",
+      "lyricKey": null
+    },
+    "no-matter-how-long-singers-e": {
+      "title": "No Matter How Long It Takes (Singers)",
+      "base": "No Matter How Long It Takes",
+      "label": "Singers part",
+      "sub": "Singers part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 289,
+      "file": "no-matter-how-long-singers-e.m4a",
+      "lyricKey": null
+    },
+    "no-matter-how-long-soprano-e": {
+      "title": "No Matter How Long It Takes (Soprano)",
+      "base": "No Matter How Long It Takes",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 289,
+      "file": "no-matter-how-long-soprano-e.m4a",
+      "lyricKey": null
+    },
+    "mighty-name-of-jesus-alto-e": {
+      "title": "Mighty Name Of Jesus (Alto)",
+      "base": "Mighty Name Of Jesus",
+      "label": "Alto part",
+      "sub": "Alto part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 284,
+      "file": "mighty-name-of-jesus-alto-e.m4a",
+      "lyricKey": null
+    },
+    "mighty-name-of-jesus-singers-e": {
+      "title": "Mighty Name Of Jesus (Singers)",
+      "base": "Mighty Name Of Jesus",
+      "label": "Singers part",
+      "sub": "Singers part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 284,
+      "file": "mighty-name-of-jesus-singers-e.m4a",
+      "lyricKey": null
+    },
+    "mighty-name-of-jesus-soprano-e": {
+      "title": "Mighty Name Of Jesus (Soprano)",
+      "base": "Mighty Name Of Jesus",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 284,
+      "file": "mighty-name-of-jesus-soprano-e.m4a",
+      "lyricKey": null
+    },
+    "how-i-praise-alto-d": {
+      "title": "How I Praise (Alto)",
+      "base": "How I Praise",
+      "label": "Alto part",
+      "sub": "Alto part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 193,
+      "file": "how-i-praise-alto-d.m4a",
+      "lyricKey": null
+    },
+    "how-i-praise-singers-d": {
+      "title": "How I Praise (Singers)",
+      "base": "How I Praise",
+      "label": "Singers part",
+      "sub": "Singers part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 193,
+      "file": "how-i-praise-singers-d.m4a",
+      "lyricKey": null
+    },
+    "how-i-praise-soprano-d": {
+      "title": "How I Praise (Soprano)",
+      "base": "How I Praise",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 193,
+      "file": "how-i-praise-soprano-d.m4a",
+      "lyricKey": null
+    },
+    "i-know-that-i-know-alto-d": {
+      "title": "I Know That I Know (Alto)",
+      "base": "I Know That I Know",
+      "label": "Alto part",
+      "sub": "Alto part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 315,
+      "file": "i-know-that-i-know-alto-d.m4a",
+      "lyricKey": null
+    },
+    "i-know-that-i-know-singers-d": {
+      "title": "I Know That I Know (Singers)",
+      "base": "I Know That I Know",
+      "label": "Singers part",
+      "sub": "Singers part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 315,
+      "file": "i-know-that-i-know-singers-d.m4a",
+      "lyricKey": null
+    },
+    "i-know-that-i-know-soprano-d": {
+      "title": "I Know That I Know (Soprano)",
+      "base": "I Know That I Know",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 315,
+      "file": "i-know-that-i-know-soprano-d.m4a",
+      "lyricKey": null
+    },
+    "worthy-alto-d": {
+      "title": "Worthy (Alto)",
+      "base": "Worthy",
+      "label": "Alto part",
+      "sub": "Alto part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 373,
+      "file": "worthy-alto-d.m4a",
+      "lyricKey": null
+    },
+    "worthy-singers-d": {
+      "title": "Worthy (Singers)",
+      "base": "Worthy",
+      "label": "Singers part",
+      "sub": "Singers part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 373,
+      "file": "worthy-singers-d.m4a",
+      "lyricKey": null
+    },
+    "worthy-soprano-d": {
+      "title": "Worthy (Soprano)",
+      "base": "Worthy",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 373,
+      "file": "worthy-soprano-d.m4a",
+      "lyricKey": null
+    },
+    "good-plans-alto-g": {
+      "title": "Good Plans (Alto)",
+      "base": "Good Plans",
+      "label": "Alto part",
+      "sub": "Alto part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 348,
+      "file": "good-plans-alto-g.mp3",
+      "lyricKey": "good"
+    },
+    "good-plans-soprano-g": {
+      "title": "Good Plans (Soprano)",
+      "base": "Good Plans",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 348,
+      "file": "good-plans-soprano-g.mp3",
+      "lyricKey": "good"
+    },
+    "sovereign-alto-g": {
+      "title": "Sovereign (Alto)",
+      "base": "Sovereign",
+      "label": "Alto part",
+      "sub": "Alto part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 282,
+      "file": "sovereign-alto-g.mp3",
+      "lyricKey": "sovereign"
+    },
+    "sovereign-singers-g": {
+      "title": "Sovereign (Singers)",
+      "base": "Sovereign",
+      "label": "Singers part",
+      "sub": "Singers part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 282,
+      "file": "sovereign-singers-g.m4a",
+      "lyricKey": "sovereign"
+    },
+    "sovereign-soprano-g": {
+      "title": "Sovereign (Soprano)",
+      "base": "Sovereign",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 282,
+      "file": "sovereign-soprano-g.mp3",
+      "lyricKey": "sovereign"
+    },
+    "i-thank-god-alto-e": {
+      "title": "I Thank God (Alto)",
+      "base": "I Thank God",
+      "label": "Alto part",
+      "sub": "Alto part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 350,
+      "file": "i-thank-god-alto-e.mp3",
+      "lyricKey": "ithankgod"
+    },
+    "i-thank-god-singers-e": {
+      "title": "I Thank God (Singers)",
+      "base": "I Thank God",
+      "label": "Singers part",
+      "sub": "Singers part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 350,
+      "file": "i-thank-god-singers-e.m4a",
+      "lyricKey": "ithankgod"
+    },
+    "i-thank-god-soprano-e": {
+      "title": "I Thank God (Soprano)",
+      "base": "I Thank God",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 350,
+      "file": "i-thank-god-soprano-e.mp3",
+      "lyricKey": "ithankgod"
+    },
+    "so-so-good-alto-g": {
+      "title": "So So Good (Alto)",
+      "base": "So So Good",
+      "label": "Alto part",
+      "sub": "Alto part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 232,
+      "file": "so-so-good-alto-g.mp3",
+      "lyricKey": "sosogood"
+    },
+    "so-so-good-soprano-g": {
+      "title": "So So Good (Soprano)",
+      "base": "So So Good",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of G",
+      "key": "Key of G",
+      "keyName": "G",
+      "dur": 232,
+      "file": "so-so-good-soprano-g.mp3",
+      "lyricKey": "sosogood"
+    },
+    "what-a-god-alto-d": {
+      "title": "What A God (Alto)",
+      "base": "What A God",
+      "label": "Alto part",
+      "sub": "Alto part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 315,
+      "file": "what-a-god-alto-d.mp3",
+      "lyricKey": "whatagod"
+    },
+    "what-a-god-soprano-d": {
+      "title": "What A God (Soprano)",
+      "base": "What A God",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 315,
+      "file": "what-a-god-soprano-d.mp3",
+      "lyricKey": "whatagod"
+    },
+    "he-shall-be-praised-alto-e": {
+      "title": "He Shall Be Praised (Alto)",
+      "base": "He Shall Be Praised",
+      "label": "Alto part",
+      "sub": "Alto part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 260,
+      "file": "he-shall-be-praised-alto-e.m4a",
+      "lyricKey": null
+    },
+    "he-shall-be-praised-singers-e": {
+      "title": "He Shall Be Praised (Singers)",
+      "base": "He Shall Be Praised",
+      "label": "Singers part",
+      "sub": "Singers part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 260,
+      "file": "he-shall-be-praised-singers-e.m4a",
+      "lyricKey": null
+    },
+    "he-shall-be-praised-soprano-e": {
+      "title": "He Shall Be Praised (Soprano)",
+      "base": "He Shall Be Praised",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of E",
+      "key": "Key of E",
+      "keyName": "E",
+      "dur": 260,
+      "file": "he-shall-be-praised-soprano-e.m4a",
+      "lyricKey": null
+    },
+    "gratitude-full-c": {
+      "title": "Gratitude",
+      "base": "Gratitude",
+      "label": "Live version",
+      "sub": "Live version, key of C",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 553,
+      "file": "gratitude-full-c.m4a",
+      "lyricKey": null
+    },
+    "gratitude-alto-c": {
+      "title": "Gratitude (Alto)",
+      "base": "Gratitude",
+      "label": "Alto part",
+      "sub": "Alto part track, key of C",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 492,
+      "file": "gratitude-alto-c.m4a",
+      "lyricKey": null
+    },
+    "gratitude-singers-c": {
+      "title": "Gratitude (Singers)",
+      "base": "Gratitude",
+      "label": "Singers part",
+      "sub": "Singers part track, key of C",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 492,
+      "file": "gratitude-singers-c.m4a",
+      "lyricKey": null
+    },
+    "gratitude-soprano-c": {
+      "title": "Gratitude (Soprano)",
+      "base": "Gratitude",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of C",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 492,
+      "file": "gratitude-soprano-c.m4a",
+      "lyricKey": null
+    },
+    "gratitude-tenor-c": {
+      "title": "Gratitude (Tenor)",
+      "base": "Gratitude",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of C",
+      "key": "Key of C",
+      "keyName": "C",
+      "dur": 492,
+      "file": "gratitude-tenor-c.m4a",
+      "lyricKey": null
+    },
+    "great-are-you-lord-full-d": {
+      "title": "Great Are You Lord",
+      "base": "Great Are You Lord",
+      "label": "Full version",
+      "sub": "Full version, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 291,
+      "file": "great-are-you-lord-full-d.m4a",
+      "lyricKey": null
+    },
+    "great-are-you-lord-alto-d": {
+      "title": "Great Are You Lord (Alto)",
+      "base": "Great Are You Lord",
+      "label": "Alto part",
+      "sub": "Alto part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 291,
+      "file": "great-are-you-lord-alto-d.m4a",
+      "lyricKey": null
+    },
+    "great-are-you-lord-bass-d": {
+      "title": "Great Are You Lord (Bass)",
+      "base": "Great Are You Lord",
+      "label": "Bass part",
+      "sub": "Bass part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 291,
+      "file": "great-are-you-lord-bass-d.m4a",
+      "lyricKey": null
+    },
+    "great-are-you-lord-singers-d": {
+      "title": "Great Are You Lord (Singers)",
+      "base": "Great Are You Lord",
+      "label": "Singers part",
+      "sub": "Singers part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 291,
+      "file": "great-are-you-lord-singers-d.m4a",
+      "lyricKey": null
+    },
+    "great-are-you-lord-soprano-d": {
+      "title": "Great Are You Lord (Soprano)",
+      "base": "Great Are You Lord",
+      "label": "Soprano part",
+      "sub": "Soprano part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 291,
+      "file": "great-are-you-lord-soprano-d.m4a",
+      "lyricKey": null
+    },
+    "great-are-you-lord-tenor-d": {
+      "title": "Great Are You Lord (Tenor)",
+      "base": "Great Are You Lord",
+      "label": "Tenor part",
+      "sub": "Tenor part track, key of D",
+      "key": "Key of D",
+      "keyName": "D",
+      "dur": 291,
+      "file": "great-are-you-lord-tenor-d.m4a",
+      "lyricKey": null
+    }
+  },
+  "sets": [
+    {
+      "dateISO": "2026-10-18",
+      "dateLabel": "Sunday, October 18, 2026",
+      "shortLabel": "Sun, Oct 18",
+      "songs": [
+        {
+          "title": "Good Times",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "good-times-full-e",
+          "versions": [
+            "good-times-full-e",
+            "good-times-tenor-e",
+            "good-times-alto-e",
+            "good-times-singers-e",
+            "good-times-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "good-times-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "eden-live.jpg",
+            "credit": "The Belonging Co · Eden (Live)"
+          }
+        },
+        {
+          "title": "All About You",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "all-about-you-full-e",
+          "versions": [
+            "all-about-you-full-e",
+            "all-about-you-tenor-e",
+            "all-about-you-alto-e",
+            "all-about-you-singers-e",
+            "all-about-you-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "all-about-you-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "all-about-you.jpg",
+            "credit": "Passion · I've Witnessed It (Live)"
+          }
+        },
+        {
+          "title": "Trust In God",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "trust-in-god-full-e",
+          "versions": [
+            "trust-in-god-full-e",
+            "trust-in-god-tenor-e",
+            "trust-in-god-alto-e",
+            "trust-in-god-singers-e",
+            "trust-in-god-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "trust-in-god-chart-e.pdf",
+              "label": "SongSelect Chart in E",
+              "pages": 2
+            },
+            {
+              "file": "trust-in-god-dc.pdf",
+              "label": "Directors Chart",
+              "pages": 2
+            },
+            {
+              "file": "trust-in-god-chart-c.pdf",
+              "label": "SongSelect Chart in C",
+              "pages": 2
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "trust-in-god.jpg",
+            "credit": "Elevation Worship · CAN YOU IMAGINE?"
+          }
+        },
+        {
+          "title": "Gratitude",
+          "note": "Scheduled in E. The recordings Planning Center holds are live, in C (full mix plus alto, soprano, tenor and singers parts); Its lyrics chart is linked with the song below.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "gratitude-full-c",
+          "versions": [
+            "gratitude-full-c",
+            "gratitude-alto-c",
+            "gratitude-singers-c",
+            "gratitude-soprano-c",
+            "gratitude-tenor-c"
+          ],
+          "charts": [
+            {
+              "file": "gratitude-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "gratitude.jpg",
+            "credit": "Brandon Lake · House of Miracles"
+          }
+        }
+      ]
+    },
+    {
+      "dateISO": "2026-10-21",
+      "dateLabel": "Wednesday, October 21, 2026",
+      "shortLabel": "Wed, Oct 21",
+      "songs": [
+        {
+          "title": "He Shall Be Praised",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "he-shall-be-praised-full-e",
+          "versions": [
+            "he-shall-be-praised-full-e",
+            "he-shall-be-praised-tenor-e",
+            "he-shall-be-praised-alto-e",
+            "he-shall-be-praised-singers-e",
+            "he-shall-be-praised-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "he-shall-be-praised-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": null
+        },
+        {
+          "title": "Goodness Of God",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G"
+          ],
+          "defaultId": "goodness-of-god-full-g",
+          "versions": [
+            "goodness-of-god-full-g",
+            "goodness-of-god-tenor-g",
+            "goodness-of-god-alto-g",
+            "goodness-of-god-singers-g",
+            "goodness-of-god-soprano-g"
+          ],
+          "charts": [
+            {
+              "file": "goodness-of-god-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "goodnessofgod",
+          "art": {
+            "file": "goodness-of-god.jpg",
+            "credit": "Church of the City · Defiant Joy (Live)"
+          }
+        }
+      ]
+    },
+    {
+      "dateISO": "2026-10-25",
+      "dateLabel": "Sunday, October 25, 2026",
+      "shortLabel": "Sun, Oct 25",
+      "songs": [
+        {
+          "title": "Faithfulness",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D"
+          ],
+          "defaultId": "faithfulness-full-d",
+          "versions": [
+            "faithfulness-full-d",
+            "faithfulness-tenor-d"
+          ],
+          "charts": [
+            {
+              "file": "faithfulness-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "faithfulness",
+          "art": {
+            "file": "faithfulness.jpg",
+            "credit": "Lakewood Music · Oh How Worthy (Live)"
+          }
+        },
+        {
+          "title": "Take You At Your Word",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "take-you-at-your-word-full-e",
+          "versions": [
+            "take-you-at-your-word-full-e",
+            "take-you-at-your-word-tenor-e",
+            "take-you-at-your-word-alto-e",
+            "take-you-at-your-word-singers-e",
+            "take-you-at-your-word-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "take-you-at-your-word-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "take-you-at-your-word.jpg",
+            "credit": "Cody Carnes · God Is Good! (Live)"
+          }
+        },
+        {
+          "title": "Trust In God",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "trust-in-god-full-e",
+          "versions": [
+            "trust-in-god-full-e",
+            "trust-in-god-tenor-e",
+            "trust-in-god-alto-e",
+            "trust-in-god-singers-e",
+            "trust-in-god-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "trust-in-god-chart-e.pdf",
+              "label": "SongSelect Chart in E",
+              "pages": 2
+            },
+            {
+              "file": "trust-in-god-dc.pdf",
+              "label": "Directors Chart",
+              "pages": 2
+            },
+            {
+              "file": "trust-in-god-chart-c.pdf",
+              "label": "SongSelect Chart in C",
+              "pages": 2
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "trust-in-god.jpg",
+            "credit": "Elevation Worship · CAN YOU IMAGINE?"
+          }
+        },
+        {
+          "title": "Great Are You Lord",
+          "note": "Scheduled in E. The recordings Planning Center holds are in D (the \"New Key\" full mix, plus alto, bass, soprano, tenor and singers parts); Its lyrics chart is linked with the song below.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "great-are-you-lord-full-d",
+          "versions": [
+            "great-are-you-lord-full-d",
+            "great-are-you-lord-alto-d",
+            "great-are-you-lord-bass-d",
+            "great-are-you-lord-singers-d",
+            "great-are-you-lord-soprano-d",
+            "great-are-you-lord-tenor-d"
+          ],
+          "charts": [
+            {
+              "file": "great-are-you-lord-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "great-are-you-lord.jpg",
+            "credit": "All Sons & Daughters · All Sons & Daughters"
+          }
+        }
+      ]
+    },
+    {
+      "dateISO": "2026-10-28",
+      "dateLabel": "Wednesday, October 28, 2026",
+      "shortLabel": "Wed, Oct 28",
+      "songs": [
+        {
+          "title": "Good Times",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "good-times-full-e",
+          "versions": [
+            "good-times-full-e",
+            "good-times-tenor-e",
+            "good-times-alto-e",
+            "good-times-singers-e",
+            "good-times-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "good-times-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "eden-live.jpg",
+            "credit": "The Belonging Co · Eden (Live)"
+          }
+        },
+        {
+          "title": "All About You",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "all-about-you-full-e",
+          "versions": [
+            "all-about-you-full-e",
+            "all-about-you-tenor-e",
+            "all-about-you-alto-e",
+            "all-about-you-singers-e",
+            "all-about-you-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "all-about-you-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "all-about-you.jpg",
+            "credit": "Passion · I've Witnessed It (Live)"
+          }
+        },
+        {
+          "title": "Trust In God",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "trust-in-god-full-e",
+          "versions": [
+            "trust-in-god-full-e",
+            "trust-in-god-tenor-e",
+            "trust-in-god-alto-e",
+            "trust-in-god-singers-e",
+            "trust-in-god-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "trust-in-god-chart-e.pdf",
+              "label": "SongSelect Chart in E",
+              "pages": 2
+            },
+            {
+              "file": "trust-in-god-dc.pdf",
+              "label": "Directors Chart",
+              "pages": 2
+            },
+            {
+              "file": "trust-in-god-chart-c.pdf",
+              "label": "SongSelect Chart in C",
+              "pages": 2
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "trust-in-god.jpg",
+            "credit": "Elevation Worship · CAN YOU IMAGINE?"
+          }
+        },
+        {
+          "title": "Gratitude",
+          "note": "Scheduled in E. The recordings Planning Center holds are live, in C (full mix plus alto, soprano, tenor and singers parts); Its lyrics chart is linked with the song below.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "gratitude-full-c",
+          "versions": [
+            "gratitude-full-c",
+            "gratitude-alto-c",
+            "gratitude-singers-c",
+            "gratitude-soprano-c",
+            "gratitude-tenor-c"
+          ],
+          "charts": [
+            {
+              "file": "gratitude-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "gratitude.jpg",
+            "credit": "Brandon Lake · House of Miracles"
+          }
+        },
+        {
+          "title": "Here I Am To Worship",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "here-i-am-to-worship-full-e",
+          "versions": [
+            "here-i-am-to-worship-full-e"
+          ],
+          "charts": [
+            {
+              "file": "here-i-am-to-worship-chart-e.pdf",
+              "label": "Chart in E",
+              "pages": 1
+            },
+            {
+              "file": "here-i-am-to-worship-dc.pdf",
+              "label": "Directors Chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "here-i-am-to-worship.jpg",
+            "credit": "Tim Hughes · Here I Am to Worship"
+          }
+        },
+        {
+          "title": "No Matter How Long It Takes",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "no-matter-how-long-full-e",
+          "versions": [
+            "no-matter-how-long-full-e",
+            "no-matter-how-long-tenor-e",
+            "no-matter-how-long-alto-e",
+            "no-matter-how-long-singers-e",
+            "no-matter-how-long-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "no-matter-how-long-dc.pdf",
+              "label": "Directors Chart",
+              "pages": 2
+            },
+            {
+              "file": "no-matter-how-long-numbers-e.pdf",
+              "label": "Cross Point Chart in E · Numbers",
+              "pages": 2
+            },
+            {
+              "file": "no-matter-how-long-chart-e.pdf",
+              "label": "Cross Point Chart in E",
+              "pages": 2
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "no-matter-how-long.jpg",
+            "credit": "Cross Point Music · Cross Point Music EP"
+          }
+        },
+        {
+          "title": "Mighty Name Of Jesus",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "mighty-name-of-jesus-full-e",
+          "versions": [
+            "mighty-name-of-jesus-full-e",
+            "mighty-name-of-jesus-tenor-e",
+            "mighty-name-of-jesus-alto-e",
+            "mighty-name-of-jesus-singers-e",
+            "mighty-name-of-jesus-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "mighty-name-of-jesus-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 2
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "eden-live.jpg",
+            "credit": "The Belonging Co · Eden (Live)"
+          }
+        },
+        {
+          "title": "Take You At Your Word",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "take-you-at-your-word-full-e",
+          "versions": [
+            "take-you-at-your-word-full-e",
+            "take-you-at-your-word-tenor-e",
+            "take-you-at-your-word-alto-e",
+            "take-you-at-your-word-singers-e",
+            "take-you-at-your-word-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "take-you-at-your-word-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "take-you-at-your-word.jpg",
+            "credit": "Cody Carnes · God Is Good! (Live)"
+          }
+        }
+      ]
+    },
+    {
+      "dateISO": "2026-11-01",
+      "dateLabel": "Sunday, November 1, 2026",
+      "shortLabel": "Sun, Nov 1",
+      "songs": [
+        {
+          "title": "How I Praise",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D"
+          ],
+          "defaultId": "how-i-praise-full-d",
+          "versions": [
+            "how-i-praise-full-d",
+            "how-i-praise-tenor-d",
+            "how-i-praise-alto-d",
+            "how-i-praise-singers-d",
+            "how-i-praise-soprano-d"
+          ],
+          "charts": [
+            {
+              "file": "how-i-praise-chart-d.pdf",
+              "label": "SongSelect Chart in D",
+              "pages": 2
+            },
+            {
+              "file": "how-i-praise-dc.pdf",
+              "label": "Directors Chart",
+              "pages": 2
+            },
+            {
+              "file": "how-i-praise-chart-c.pdf",
+              "label": "SongSelect Chart in C",
+              "pages": 2
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "how-i-praise.jpg",
+            "credit": "Planetshakers · Glory, Pt. 1 (Live)"
+          }
+        },
+        {
+          "title": "I Know That I Know",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D"
+          ],
+          "defaultId": "i-know-that-i-know-full-d",
+          "versions": [
+            "i-know-that-i-know-full-d",
+            "i-know-that-i-know-tenor-d",
+            "i-know-that-i-know-alto-d",
+            "i-know-that-i-know-singers-d",
+            "i-know-that-i-know-soprano-d"
+          ],
+          "charts": [
+            {
+              "file": "i-know-that-i-know-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 2
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "eden-live.jpg",
+            "credit": "The Belonging Co · Eden (Live)"
+          }
+        },
+        {
+          "title": "What A God",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D"
+          ],
+          "defaultId": "what-a-god-full-d",
+          "versions": [
+            "what-a-god-full-d",
+            "what-a-god-tenor-d",
+            "what-a-god-alto-d",
+            "what-a-god-soprano-d"
+          ],
+          "charts": [
+            {
+              "file": "what-a-god-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "whatagod",
+          "art": {
+            "file": "what-a-god.jpg",
+            "credit": "SEU Worship · Move of God (Live)"
+          }
+        },
+        {
+          "title": "Worthy",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D"
+          ],
+          "defaultId": "worthy-full-d",
+          "versions": [
+            "worthy-full-d",
+            "worthy-tenor-d",
+            "worthy-alto-d",
+            "worthy-singers-d",
+            "worthy-soprano-d"
+          ],
+          "charts": [
+            {
+              "file": "worthy-chart-d.pdf",
+              "label": "SongSelect Chart in D",
+              "pages": 2
+            },
+            {
+              "file": "worthy-dc.pdf",
+              "label": "Directors Chart",
+              "pages": 2
+            },
+            {
+              "file": "worthy-chart-eb.pdf",
+              "label": "SongSelect Chart in E♭",
+              "pages": 2
+            }
+          ],
+          "lyricKey": null,
+          "art": {
+            "file": "worthy.jpg",
+            "credit": "Elevation Worship · Hallelujah Here Below"
+          }
+        }
+      ]
+    },
+    {
+      "dateISO": "2026-11-08",
+      "dateLabel": "Sunday, November 8, 2026",
+      "shortLabel": "Sun, Nov 8",
+      "songs": [
+        {
+          "title": "All My Life",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E",
+            "Key of D"
+          ],
+          "defaultId": "all-my-life-live-e",
+          "versions": [
+            "all-my-life-live-e"
+          ],
+          "charts": [],
+          "lyricKey": "allmylife",
+          "art": {
+            "file": "all-my-life.jpg",
+            "credit": "Planetshakers · Revival (Live)"
+          }
+        },
+        {
+          "title": "New Thing Coming",
+          "note": "You sing this one in D. The original recording is in E♭, featuring Tiffany Hudson and Steven Furtick.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D",
+            "Key of E♭"
+          ],
+          "defaultId": "new-thing-coming-d",
+          "versions": [
+            "new-thing-coming-d",
+            "new-thing-coming-eb"
+          ],
+          "charts": [],
+          "lyricKey": "newthing",
+          "art": {
+            "file": "when-wind-meets-fire.jpg",
+            "credit": "Elevation Worship · When Wind Meets Fire"
+          }
+        },
+        {
+          "title": "Good Plans",
+          "note": "You sing this one in C for this set. The original recording is in D.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of C",
+            "Key of D"
+          ],
+          "defaultId": "good-plans-full-c",
+          "versions": [
+            "good-plans-full-c",
+            "good-plans-alto-c",
+            "good-plans-tenor-c",
+            "good-plans-original-d",
+            "good-plans-full-g",
+            "good-plans-tenor-g",
+            "good-plans-alto-g",
+            "good-plans-soprano-g"
+          ],
+          "charts": [
+            {
+              "file": "good-plans-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "good",
+          "art": {
+            "file": "good-plans.jpg",
+            "credit": "Red Rocks Worship · Ascend"
+          }
+        },
+        {
+          "title": "Sovereign",
+          "note": "This set only does a tag of the bridge, in C.",
+          "bridgeTag": true,
+          "keyChips": [
+            "Key of C",
+            "Key of G"
+          ],
+          "defaultId": "sovereign-c",
+          "versions": [
+            "sovereign-c",
+            "sovereign-c-octave-down",
+            "sovereign-g-demo",
+            "sovereign-tenor-g",
+            "sovereign-alto-g",
+            "sovereign-singers-g",
+            "sovereign-soprano-g"
+          ],
+          "charts": [
+            {
+              "file": "sovereign-chart-g.pdf",
+              "label": "Chart in G",
+              "pages": 2
+            },
+            {
+              "file": "sovereign-chart-c.pdf",
+              "label": "Chart in C",
+              "pages": 2
+            },
+            {
+              "file": "sovereign-dc.pdf",
+              "label": "Directors Chart",
+              "pages": 2
+            }
+          ],
+          "lyricKey": "sovereign",
+          "art": null
+        }
+      ]
+    },
+    {
+      "dateISO": "2026-11-11",
+      "dateLabel": "Wednesday, November 11, 2026",
+      "shortLabel": "Wed, Nov 11",
+      "songs": [
+        {
+          "title": "So So Good",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G"
+          ],
+          "defaultId": "so-so-good-full-g",
+          "versions": [
+            "so-so-good-full-g",
+            "so-so-good-tenor-g",
+            "so-so-good-alto-g",
+            "so-so-good-soprano-g"
+          ],
+          "charts": [
+            {
+              "file": "so-so-good-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 2
+            }
+          ],
+          "lyricKey": "sosogood",
+          "art": {
+            "file": "so-so-good.jpg",
+            "credit": "Phil Wickham · So So Good (Live)"
+          }
+        },
+        {
+          "title": "Who Else",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G"
+          ],
+          "defaultId": "who-else-full-g",
+          "versions": [
+            "who-else-full-g",
+            "who-else-tenor-g"
+          ],
+          "charts": [
+            {
+              "file": "who-else-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "whoelse",
+          "art": {
+            "file": "who-else.jpg",
+            "credit": "Gateway Worship · Crowns Down (Live)"
+          }
+        }
+      ]
+    },
+    {
+      "dateISO": "2026-11-15",
+      "dateLabel": "Sunday, November 15, 2026",
+      "shortLabel": "Sun, Nov 15",
+      "songs": [
+        {
+          "title": "He Shall Be Praised",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "he-shall-be-praised-full-e",
+          "versions": [
+            "he-shall-be-praised-full-e",
+            "he-shall-be-praised-tenor-e",
+            "he-shall-be-praised-alto-e",
+            "he-shall-be-praised-singers-e",
+            "he-shall-be-praised-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "he-shall-be-praised-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": null
+        },
+        {
+          "title": "Another One",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G"
+          ],
+          "defaultId": "another-one-full-g",
+          "versions": [
+            "another-one-full-g",
+            "another-one-tenor-g"
+          ],
+          "charts": [
+            {
+              "file": "another-one-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 2
+            }
+          ],
+          "lyricKey": "anotherone",
+          "art": {
+            "file": "when-wind-meets-fire.jpg",
+            "credit": "Elevation Worship · When Wind Meets Fire"
+          }
+        },
+        {
+          "title": "Good Plans",
+          "note": "You sing this one in G for this set. The player also has it in C and D from the Nov 8 set.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G",
+            "Key of C",
+            "Key of D"
+          ],
+          "defaultId": "good-plans-full-g",
+          "versions": [
+            "good-plans-full-g",
+            "good-plans-tenor-g",
+            "good-plans-alto-g",
+            "good-plans-soprano-g",
+            "good-plans-full-c",
+            "good-plans-alto-c",
+            "good-plans-tenor-c",
+            "good-plans-original-d"
+          ],
+          "charts": [
+            {
+              "file": "good-plans-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "good",
+          "art": {
+            "file": "good-plans.jpg",
+            "credit": "Red Rocks Worship · Ascend"
+          }
+        },
+        {
+          "title": "Sovereign",
+          "note": "Scheduled in G for this set. Planning Center has no full mix in G, only a demo and vocal part tracks, so the G demo and the G tenor part are the recordings here. The C versions below are from the Nov 8 set.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G",
+            "Key of C"
+          ],
+          "defaultId": "sovereign-g-demo",
+          "versions": [
+            "sovereign-g-demo",
+            "sovereign-tenor-g",
+            "sovereign-alto-g",
+            "sovereign-singers-g",
+            "sovereign-soprano-g",
+            "sovereign-c",
+            "sovereign-c-octave-down"
+          ],
+          "charts": [
+            {
+              "file": "sovereign-chart-g.pdf",
+              "label": "Chart in G",
+              "pages": 2
+            },
+            {
+              "file": "sovereign-chart-c.pdf",
+              "label": "Chart in C",
+              "pages": 2
+            },
+            {
+              "file": "sovereign-dc.pdf",
+              "label": "Directors Chart",
+              "pages": 2
+            }
+          ],
+          "lyricKey": "sovereign",
+          "art": null
+        }
+      ]
+    },
+    {
+      "dateISO": "2026-11-18",
+      "dateLabel": "Wednesday, November 18, 2026",
+      "shortLabel": "Wed, Nov 18",
+      "songs": [
+        {
+          "title": "He Shall Be Praised",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "he-shall-be-praised-full-e",
+          "versions": [
+            "he-shall-be-praised-full-e",
+            "he-shall-be-praised-tenor-e",
+            "he-shall-be-praised-alto-e",
+            "he-shall-be-praised-singers-e",
+            "he-shall-be-praised-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "he-shall-be-praised-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": null,
+          "art": null
+        },
+        {
+          "title": "All My Life",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E",
+            "Key of D"
+          ],
+          "defaultId": "all-my-life-live-e",
+          "versions": [
+            "all-my-life-live-e"
+          ],
+          "charts": [],
+          "lyricKey": "allmylife",
+          "art": {
+            "file": "all-my-life.jpg",
+            "credit": "Planetshakers · Revival (Live)"
+          }
+        },
+        {
+          "title": "New Thing Coming",
+          "note": "You sing this one in D. The original recording is in E♭, featuring Tiffany Hudson and Steven Furtick.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D",
+            "Key of E♭"
+          ],
+          "defaultId": "new-thing-coming-d",
+          "versions": [
+            "new-thing-coming-d",
+            "new-thing-coming-eb"
+          ],
+          "charts": [],
+          "lyricKey": "newthing",
+          "art": {
+            "file": "when-wind-meets-fire.jpg",
+            "credit": "Elevation Worship · When Wind Meets Fire"
+          }
+        },
+        {
+          "title": "What A God",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D"
+          ],
+          "defaultId": "what-a-god-full-d",
+          "versions": [
+            "what-a-god-full-d",
+            "what-a-god-tenor-d",
+            "what-a-god-alto-d",
+            "what-a-god-soprano-d"
+          ],
+          "charts": [
+            {
+              "file": "what-a-god-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "whatagod",
+          "art": {
+            "file": "what-a-god.jpg",
+            "credit": "SEU Worship · Move of God (Live)"
+          }
+        },
+        {
+          "title": "Good Plans",
+          "note": "You sing this one in D for this set, the same D recording as the Nov 8 set. Planning Center's chart file for this plan is named for C, but the scheduled key is D.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D",
+            "Key of C",
+            "Key of G"
+          ],
+          "defaultId": "good-plans-original-d",
+          "versions": [
+            "good-plans-original-d",
+            "good-plans-full-c",
+            "good-plans-alto-c",
+            "good-plans-tenor-c",
+            "good-plans-full-g",
+            "good-plans-tenor-g",
+            "good-plans-alto-g",
+            "good-plans-soprano-g"
+          ],
+          "charts": [
+            {
+              "file": "good-plans-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "good",
+          "art": {
+            "file": "good-plans.jpg",
+            "credit": "Red Rocks Worship · Ascend"
+          }
+        },
+        {
+          "title": "Do It Again",
+          "note": "Scheduled in D. The full mix in Planning Center for this key is the female-key version.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D"
+          ],
+          "defaultId": "do-it-again-full-d",
+          "versions": [
+            "do-it-again-full-d",
+            "do-it-again-tenor-d"
+          ],
+          "charts": [
+            {
+              "file": "do-it-again-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "doitagain",
+          "art": {
+            "file": "do-it-again.jpg",
+            "credit": "Elevation Worship · There Is a Cloud (Live)"
+          }
+        },
+        {
+          "title": "Worthy Of It All",
+          "note": "Scheduled in D. Planning Center holds no downloadable recording for this one: its only full-length audio is a MultiTracks.com-linked stream (the transposed original mix), which cannot be pulled as a file. Its lyrics and charts are linked with the song below; it stays in the set with its scheduled key and no playable row rather than substituting a different recording.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D"
+          ],
+          "defaultId": null,
+          "versions": [],
+          "charts": [
+            {
+              "file": "worthy-of-it-all-chart-d.pdf",
+              "label": "SongSelect Chart in D",
+              "pages": 2
+            },
+            {
+              "file": "worthy-of-it-all-chart-c.pdf",
+              "label": "SongSelect Chart in C",
+              "pages": 2
+            },
+            {
+              "file": "worthy-of-it-all-chart-g.pdf",
+              "label": "SongSelect Chart in G",
+              "pages": 2
+            }
+          ],
+          "lyricKey": "worthyofitall",
+          "art": null
+        },
+        {
+          "title": "I Thank God",
+          "note": "Scheduled in E. Its follow-along lyrics are the words from the song's Lyrics & Chords chart in Planning Center, and its charts are linked with the song below.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of E"
+          ],
+          "defaultId": "i-thank-god-full-e",
+          "versions": [
+            "i-thank-god-full-e",
+            "i-thank-god-tenor-e",
+            "i-thank-god-alto-e",
+            "i-thank-god-singers-e",
+            "i-thank-god-soprano-e"
+          ],
+          "charts": [
+            {
+              "file": "i-thank-god-dc.pdf",
+              "label": "Directors Chart",
+              "pages": 2
+            },
+            {
+              "file": "i-thank-god-chords-e.pdf",
+              "label": "Chords in E",
+              "pages": 2
+            },
+            {
+              "file": "i-thank-god-chords-db.pdf",
+              "label": "Chords in D♭",
+              "pages": 2
+            },
+            {
+              "file": "i-thank-god-chart-c.pdf",
+              "label": "SongSelect Chart in C",
+              "pages": 2
+            }
+          ],
+          "lyricKey": "ithankgod",
+          "art": {
+            "file": "i-thank-god.jpg",
+            "credit": "Free Worship · My Soul Sings"
+          }
+        }
+      ]
+    },
+    {
+      "dateISO": "2026-11-22",
+      "dateLabel": "Sunday, November 22, 2026",
+      "shortLabel": "Sun, Nov 22",
+      "songs": [
+        {
+          "title": "Faithfulness",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D"
+          ],
+          "defaultId": "faithfulness-full-d",
+          "versions": [
+            "faithfulness-full-d",
+            "faithfulness-tenor-d"
+          ],
+          "charts": [
+            {
+              "file": "faithfulness-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "faithfulness",
+          "art": {
+            "file": "faithfulness.jpg",
+            "credit": "Lakewood Music · Oh How Worthy (Live)"
+          }
+        },
+        {
+          "title": "Holy Ground",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of D"
+          ],
+          "defaultId": "holy-ground-full-d",
+          "versions": [
+            "holy-ground-full-d",
+            "holy-ground-tenor-d",
+            "holy-ground-singers-d",
+            "holy-ground-soprano-d"
+          ],
+          "charts": [
+            {
+              "file": "holy-ground-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "holyground",
+          "art": {
+            "file": "holy-ground.jpg",
+            "credit": "Passion · Worthy Of Your Name (Live)"
+          }
+        },
+        {
+          "title": "We're Ready",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G"
+          ],
+          "defaultId": "were-ready-full-g",
+          "versions": [
+            "were-ready-full-g",
+            "were-ready-tenor-g",
+            "were-ready-alto-g",
+            "were-ready-singers-g",
+            "were-ready-soprano-g"
+          ],
+          "charts": [
+            {
+              "file": "were-ready-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "wereready",
+          "art": {
+            "file": "were-ready.jpg",
+            "credit": "Cross Point Music · Never Going Back"
+          }
+        },
+        {
+          "title": "Believe For It",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G"
+          ],
+          "defaultId": "believe-for-it-full-g",
+          "versions": [
+            "believe-for-it-full-g",
+            "believe-for-it-tenor-g",
+            "believe-for-it-alto-g",
+            "believe-for-it-singers-g",
+            "believe-for-it-soprano-g"
+          ],
+          "charts": [
+            {
+              "file": "believe-for-it-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 2
+            }
+          ],
+          "lyricKey": "believeforit",
+          "art": {
+            "file": "believe-for-it.jpg",
+            "credit": "CeCe Winans · Believe For It"
+          }
+        }
+      ]
+    },
+    {
+      "dateISO": "2026-11-29",
+      "dateLabel": "Sunday, November 29, 2026",
+      "shortLabel": "Sun, Nov 29",
+      "songs": [
+        {
+          "title": "So So Good",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G"
+          ],
+          "defaultId": "so-so-good-full-g",
+          "versions": [
+            "so-so-good-full-g",
+            "so-so-good-tenor-g",
+            "so-so-good-alto-g",
+            "so-so-good-soprano-g"
+          ],
+          "charts": [
+            {
+              "file": "so-so-good-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 2
+            }
+          ],
+          "lyricKey": "sosogood",
+          "art": {
+            "file": "so-so-good.jpg",
+            "credit": "Phil Wickham · So So Good (Live)"
+          }
+        },
+        {
+          "title": "Goodness Of God",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G"
+          ],
+          "defaultId": "goodness-of-god-full-g",
+          "versions": [
+            "goodness-of-god-full-g",
+            "goodness-of-god-tenor-g",
+            "goodness-of-god-alto-g",
+            "goodness-of-god-singers-g",
+            "goodness-of-god-soprano-g"
+          ],
+          "charts": [
+            {
+              "file": "goodness-of-god-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "goodnessofgod",
+          "art": {
+            "file": "goodness-of-god.jpg",
+            "credit": "Church of the City · Defiant Joy (Live)"
+          }
+        },
+        {
+          "title": "Good Plans",
+          "note": "You sing this one in G for this set, same as Nov 15.",
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G",
+            "Key of C",
+            "Key of D"
+          ],
+          "defaultId": "good-plans-full-g",
+          "versions": [
+            "good-plans-full-g",
+            "good-plans-tenor-g",
+            "good-plans-alto-g",
+            "good-plans-soprano-g",
+            "good-plans-full-c",
+            "good-plans-alto-c",
+            "good-plans-tenor-c",
+            "good-plans-original-d"
+          ],
+          "charts": [
+            {
+              "file": "good-plans-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "good",
+          "art": {
+            "file": "good-plans.jpg",
+            "credit": "Red Rocks Worship · Ascend"
+          }
+        },
+        {
+          "title": "Who Else",
+          "note": null,
+          "bridgeTag": false,
+          "keyChips": [
+            "Key of G"
+          ],
+          "defaultId": "who-else-full-g",
+          "versions": [
+            "who-else-full-g",
+            "who-else-tenor-g"
+          ],
+          "charts": [
+            {
+              "file": "who-else-lyrics.pdf",
+              "label": "Lyrics & Chords chart",
+              "pages": 1
+            }
+          ],
+          "lyricKey": "whoelse",
+          "art": {
+            "file": "who-else.jpg",
+            "credit": "Gateway Worship · Crowns Down (Live)"
+          }
+        }
+      ]
+    }
+  ],
+  "lyricSets": {
+    "build": [
+      [
+        0.02,
+        "Verse 1",
+        "Worthy of every song we could ever sing"
+      ],
+      [
+        0.08,
+        "Verse 1",
+        "Worthy of all the praise we could ever bring"
+      ],
+      [
+        0.14,
+        "Verse 1",
+        "Worthy of every breath we could ever breathe"
+      ],
+      [
+        0.2,
+        "Verse 1",
+        "We live for You, we live for You"
+      ],
+      [
+        0.27,
+        "Verse 2",
+        "Jesus, the name above every other name"
+      ],
+      [
+        0.33,
+        "Verse 2",
+        "Jesus, the only One who could ever save"
+      ],
+      [
+        0.39,
+        "Verse 2",
+        "Worthy of every breath we could ever breathe"
+      ],
+      [
+        0.44,
+        "Verse 2",
+        "We live for You, we live for You"
+      ],
+      [
+        0.51,
+        "Chorus",
+        "Holy, there is no one like You"
+      ],
+      [
+        0.55,
+        "Chorus",
+        "There is none beside You"
+      ],
+      [
+        0.59,
+        "Chorus",
+        "Open up my eyes in wonder"
+      ],
+      [
+        0.64,
+        "Chorus",
+        "Show me who You are and fill me with Your heart"
+      ],
+      [
+        0.69,
+        "Chorus",
+        "And lead me in Your love to those around me"
+      ],
+      [
+        0.76,
+        "Bridge",
+        "I will build my life upon Your love"
+      ],
+      [
+        0.8,
+        "Bridge",
+        "It is a firm foundation"
+      ],
+      [
+        0.84,
+        "Bridge",
+        "I will put my trust in You alone"
+      ],
+      [
+        0.88,
+        "Bridge",
+        "And I will not be shaken"
+      ],
+      [
+        0.93,
+        "Chorus",
+        "Holy, there is no one like You"
+      ],
+      [
+        0.96,
+        "Chorus",
+        "Open up my eyes in wonder"
+      ]
+    ],
+    "good": [
+      [
+        0.046,
+        "Verse 1",
+        "The Lord is my shepherd"
+      ],
+      [
+        0.066,
+        "Verse 1",
+        "And He is everything I need"
+      ],
+      [
+        0.086,
+        "Verse 1",
+        "So I will not worry"
+      ],
+      [
+        0.107,
+        "Verse 1",
+        "I will not fear the enemy"
+      ],
+      [
+        0.127,
+        "Verse 1",
+        "He said that He loves me"
+      ],
+      [
+        0.147,
+        "Verse 1",
+        "He said that He's with me even though"
+      ],
+      [
+        0.167,
+        "Verse 1",
+        "I walk through the valley"
+      ],
+      [
+        0.187,
+        "Verse 1",
+        "Of shadow and death and still I know"
+      ],
+      [
+        0.21,
+        "Chorus",
+        "He has good plans"
+      ],
+      [
+        0.219,
+        "Chorus",
+        "He has good plans for me"
+      ],
+      [
+        0.228,
+        "Chorus",
+        "So I will take heart"
+      ],
+      [
+        0.236,
+        "Chorus",
+        "In deserts and gardens"
+      ],
+      [
+        0.245,
+        "Chorus",
+        "He has good plans"
+      ],
+      [
+        0.254,
+        "Chorus",
+        "He has good plans for me"
+      ],
+      [
+        0.262,
+        "Chorus",
+        "If I know my Father"
+      ],
+      [
+        0.271,
+        "Chorus",
+        "I know my Father has good plans"
+      ],
+      [
+        0.28,
+        "Chorus",
+        "He has good plans"
+      ],
+      [
+        0.314,
+        "Verse 2",
+        "The Lord is my Savior"
+      ],
+      [
+        0.323,
+        "Verse 2",
+        "So why should I doubt my victory"
+      ],
+      [
+        0.334,
+        "Verse 2",
+        "Why would I question"
+      ],
+      [
+        0.346,
+        "Verse 2",
+        "The rod and the staff that comforts me"
+      ],
+      [
+        0.354,
+        "Verse 2",
+        "He quiets the waters"
+      ],
+      [
+        0.363,
+        "Verse 2",
+        "He quiets the storm inside of me"
+      ],
+      [
+        0.375,
+        "Verse 2",
+        "So what could be better"
+      ],
+      [
+        0.386,
+        "Verse 2",
+        "Than walking with Him when I believe"
+      ],
+      [
+        0.398,
+        "Chorus",
+        "He has good plans"
+      ],
+      [
+        0.406,
+        "Chorus",
+        "He has good plans for me"
+      ],
+      [
+        0.415,
+        "Chorus",
+        "So I will take heart"
+      ],
+      [
+        0.424,
+        "Chorus",
+        "In deserts and gardens"
+      ],
+      [
+        0.432,
+        "Chorus",
+        "He has good plans"
+      ],
+      [
+        0.441,
+        "Chorus",
+        "He has good plans for me"
+      ],
+      [
+        0.45,
+        "Chorus",
+        "If I know my Father"
+      ],
+      [
+        0.458,
+        "Chorus",
+        "I know my Father has good plans"
+      ],
+      [
+        0.467,
+        "Chorus",
+        "He has good plans"
+      ],
+      [
+        0.651,
+        "Bridge",
+        "Surely Your goodness and mercy"
+      ],
+      [
+        0.689,
+        "Bridge",
+        "Will follow after me"
+      ],
+      [
+        0.726,
+        "Bridge",
+        "So fear will not find me"
+      ],
+      [
+        0.764,
+        "Bridge",
+        "'Cause I'll be dwelling in the house of God"
+      ],
+      [
+        0.81,
+        "Chorus",
+        "He has good plans"
+      ],
+      [
+        0.818,
+        "Chorus",
+        "He has good plans for me"
+      ],
+      [
+        0.827,
+        "Chorus",
+        "So I will take heart"
+      ],
+      [
+        0.836,
+        "Chorus",
+        "In deserts and gardens"
+      ],
+      [
+        0.844,
+        "Chorus",
+        "He has good plans"
+      ],
+      [
+        0.853,
+        "Chorus",
+        "He has good plans for me"
+      ],
+      [
+        0.862,
+        "Chorus",
+        "If I know my Father"
+      ],
+      [
+        0.87,
+        "Chorus",
+        "I know my Father has good plans"
+      ],
+      [
+        0.879,
+        "Chorus",
+        "He has good plans"
+      ],
+      [
+        0.934,
+        "Ending",
+        "Good plans"
+      ],
+      [
+        0.948,
+        "Ending",
+        "Good plans"
+      ],
+      [
+        0.963,
+        "Ending",
+        "If I know my Father"
+      ],
+      [
+        0.977,
+        "Ending",
+        "I know my Father has good plans"
+      ]
+    ],
+    "allmylife": [
+      [
+        0.037,
+        "Verse 1",
+        "I'm not looking back to what once was"
+      ],
+      [
+        0.061,
+        "Verse 1",
+        "My vision ahead to where You are now"
+      ],
+      [
+        0.085,
+        "Verse 1",
+        "I know You have greater things for me"
+      ],
+      [
+        0.11,
+        "Pre-Chorus",
+        "So with every step I believe"
+      ],
+      [
+        0.142,
+        "Chorus",
+        "It's a brand new day"
+      ],
+      [
+        0.159,
+        "Chorus",
+        "All my past is washed away"
+      ],
+      [
+        0.171,
+        "Chorus",
+        "So I give You all my praise"
+      ],
+      [
+        0.187,
+        "Chorus",
+        "Jesus I will go Your way"
+      ],
+      [
+        0.203,
+        "Refrain",
+        "You have all my life all my life"
+      ],
+      [
+        0.215,
+        "Refrain",
+        "All my life all my life"
+      ],
+      [
+        0.224,
+        "Tag",
+        "It's for You"
+      ],
+      [
+        0.236,
+        "Verse 2",
+        "It's a new season I'm living in"
+      ],
+      [
+        0.26,
+        "Verse 2",
+        "Everything's changed because You're with me"
+      ],
+      [
+        0.285,
+        "Verse 2",
+        "Yeah I come alive in Your presence"
+      ],
+      [
+        0.309,
+        "Pre-Chorus",
+        "So with every step I believe"
+      ],
+      [
+        0.341,
+        "Chorus",
+        "It's a brand new day"
+      ],
+      [
+        0.354,
+        "Chorus",
+        "All my past is washed away"
+      ],
+      [
+        0.37,
+        "Chorus",
+        "So I give You all my praise"
+      ],
+      [
+        0.386,
+        "Chorus",
+        "Jesus I will go Your way"
+      ],
+      [
+        0.402,
+        "Refrain",
+        "You have all my life all my life"
+      ],
+      [
+        0.419,
+        "Refrain",
+        "All my life all my life"
+      ],
+      [
+        0.447,
+        "Bridge",
+        "Every beat of my heart beats for You"
+      ],
+      [
+        0.496,
+        "Bridge",
+        "Every breath in my lungs is for You"
+      ],
+      [
+        0.545,
+        "Bridge",
+        "Every thing that I do is for You"
+      ],
+      [
+        0.593,
+        "Bridge",
+        "Jesus it's for You"
+      ],
+      [
+        0.943,
+        "Tag",
+        "You have all my life all my life"
+      ],
+      [
+        0.967,
+        "Tag",
+        "All my life all my life"
+      ]
+    ],
+    "newthing": [
+      [
+        0.025,
+        "Verse 1",
+        "There is revival"
+      ],
+      [
+        0.032,
+        "Verse 1",
+        "Right here and now"
+      ],
+      [
+        0.038,
+        "Verse 1",
+        "There is a fresh wind"
+      ],
+      [
+        0.042,
+        "Verse 1",
+        "And I can hear the sound"
+      ],
+      [
+        0.049,
+        "Verse 1",
+        "Something truly wonderful"
+      ],
+      [
+        0.053,
+        "Verse 1",
+        "Is happening"
+      ],
+      [
+        0.059,
+        "Verse 2",
+        "There is a difference"
+      ],
+      [
+        0.065,
+        "Verse 2",
+        "Inside of me"
+      ],
+      [
+        0.072,
+        "Verse 2",
+        "More than a feeling"
+      ],
+      [
+        0.078,
+        "Verse 2",
+        "This is a prophecy"
+      ],
+      [
+        0.082,
+        "Verse 2",
+        "Something really powerful"
+      ],
+      [
+        0.089,
+        "Verse 2",
+        "Is happening"
+      ],
+      [
+        0.103,
+        "Chorus",
+        "Darkness bow down to the day"
+      ],
+      [
+        0.11,
+        "Chorus",
+        "Mountains get up out my way"
+      ],
+      [
+        0.114,
+        "Chorus",
+        "Breakin' out of yesterday"
+      ],
+      [
+        0.12,
+        "Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.124,
+        "Chorus",
+        "Tell this giant in my face"
+      ],
+      [
+        0.131,
+        "Chorus",
+        "You're not greater than my faith"
+      ],
+      [
+        0.135,
+        "Chorus",
+        "Best believe me when I say"
+      ],
+      [
+        0.141,
+        "Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.148,
+        "Post-Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.154,
+        "Post-Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.16,
+        "Post-Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.169,
+        "Verse 3",
+        "There's an anointing"
+      ],
+      [
+        0.175,
+        "Verse 3",
+        "To destroy the yoke"
+      ],
+      [
+        0.181,
+        "Verse 3",
+        "So tell every stronghold"
+      ],
+      [
+        0.186,
+        "Verse 3",
+        "You gotta let me go"
+      ],
+      [
+        0.192,
+        "Verse 3",
+        "Something really powerful"
+      ],
+      [
+        0.196,
+        "Verse 3",
+        "Is happening"
+      ],
+      [
+        0.203,
+        "Verse 4",
+        "There is a freedom"
+      ],
+      [
+        0.209,
+        "Verse 4",
+        "That I have never known"
+      ],
+      [
+        0.215,
+        "Verse 4",
+        "Out of the shadows"
+      ],
+      [
+        0.219,
+        "Verse 4",
+        "Into the overflow"
+      ],
+      [
+        0.226,
+        "Verse 4",
+        "Something really powerful"
+      ],
+      [
+        0.23,
+        "Verse 4",
+        "Is happening"
+      ],
+      [
+        0.247,
+        "Chorus",
+        "Darkness bow down to the day"
+      ],
+      [
+        0.253,
+        "Chorus",
+        "Mountains get up out my way"
+      ],
+      [
+        0.257,
+        "Chorus",
+        "Breakin' out of yesterday"
+      ],
+      [
+        0.264,
+        "Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.268,
+        "Chorus",
+        "Tell this giant in my face"
+      ],
+      [
+        0.274,
+        "Chorus",
+        "You're not greater than my faith"
+      ],
+      [
+        0.278,
+        "Chorus",
+        "Best believe me when I say"
+      ],
+      [
+        0.285,
+        "Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.291,
+        "Post-Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.297,
+        "Post-Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.304,
+        "Post-Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.338,
+        "Bridge",
+        "I can see a cloud"
+      ],
+      [
+        0.344,
+        "Bridge",
+        "Heavy with rain"
+      ],
+      [
+        0.352,
+        "Bridge",
+        "And it looks like revival"
+      ],
+      [
+        0.359,
+        "Bridge",
+        "It's headed our way"
+      ],
+      [
+        0.367,
+        "Bridge",
+        "I can see a cloud"
+      ],
+      [
+        0.373,
+        "Bridge",
+        "Heavy with rain"
+      ],
+      [
+        0.38,
+        "Bridge",
+        "And it looks like salvation"
+      ],
+      [
+        0.388,
+        "Bridge",
+        "It's headed our way"
+      ],
+      [
+        0.395,
+        "Bridge",
+        "I can hear a sound"
+      ],
+      [
+        0.403,
+        "Bridge",
+        "The abundance of rain"
+      ],
+      [
+        0.409,
+        "Bridge",
+        "And it sounds like freedom"
+      ],
+      [
+        0.414,
+        "Bridge",
+        "I got that new mind new heart fresh strength"
+      ],
+      [
+        0.416,
+        "Bridge",
+        "And it's headed our way"
+      ],
+      [
+        0.424,
+        "Bridge",
+        "I can hear a sound"
+      ],
+      [
+        0.426,
+        "Bridge",
+        "I got that new wine now word"
+      ],
+      [
+        0.43,
+        "Bridge",
+        "The abundance of rain"
+      ],
+      [
+        0.436,
+        "Bridge",
+        "And it sounds like provision"
+      ],
+      [
+        0.439,
+        "Bridge",
+        "I got a new thing coming"
+      ],
+      [
+        0.445,
+        "Bridge",
+        "And it's headed our way"
+      ],
+      [
+        0.451,
+        "Bridge",
+        "I can see a cloud"
+      ],
+      [
+        0.46,
+        "Bridge",
+        "Heavy with rain"
+      ],
+      [
+        0.466,
+        "Bridge",
+        "And it looks like healing"
+      ],
+      [
+        0.475,
+        "Bridge",
+        "It's headed our way"
+      ],
+      [
+        0.481,
+        "Bridge",
+        "I can see a cloud"
+      ],
+      [
+        0.487,
+        "Bridge",
+        "Heavy with rain"
+      ],
+      [
+        0.496,
+        "Bridge",
+        "And it looks like joy"
+      ],
+      [
+        0.502,
+        "Bridge",
+        "It's headed our way"
+      ],
+      [
+        0.517,
+        "Tag",
+        "It's headed our way"
+      ],
+      [
+        0.527,
+        "Tag",
+        "It's headed our way"
+      ],
+      [
+        0.538,
+        "Tag",
+        "It's headed our way"
+      ],
+      [
+        0.549,
+        "Tag",
+        "It's headed our way"
+      ],
+      [
+        0.557,
+        "Chorus",
+        "Darkness bow down to the day"
+      ],
+      [
+        0.563,
+        "Chorus",
+        "Mountains get up out my way"
+      ],
+      [
+        0.568,
+        "Chorus",
+        "Breakin' out of yesterday"
+      ],
+      [
+        0.574,
+        "Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.578,
+        "Chorus",
+        "Tell this giant in my face"
+      ],
+      [
+        0.584,
+        "Chorus",
+        "You're not greater than my faith"
+      ],
+      [
+        0.589,
+        "Chorus",
+        "Best believe me when I say"
+      ],
+      [
+        0.595,
+        "Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.601,
+        "Post-Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.608,
+        "Post-Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.616,
+        "Post-Chorus",
+        "I got a new thing coming"
+      ],
+      [
+        0.715,
+        "Bridge",
+        "I can see a cloud"
+      ],
+      [
+        0.722,
+        "Bridge",
+        "Heavy with rain"
+      ],
+      [
+        0.726,
+        "Bridge",
+        "And it looks like revival"
+      ],
+      [
+        0.73,
+        "Bridge",
+        "It's headed our way"
+      ],
+      [
+        0.736,
+        "Bridge",
+        "I can see a cloud"
+      ],
+      [
+        0.743,
+        "Bridge",
+        "Heavy with rain"
+      ],
+      [
+        0.747,
+        "Bridge",
+        "And it looks like salvation"
+      ],
+      [
+        0.751,
+        "Bridge",
+        "It's headed our way"
+      ],
+      [
+        0.757,
+        "Bridge",
+        "I can hear a sound"
+      ],
+      [
+        0.764,
+        "Bridge",
+        "The abundance of rain"
+      ],
+      [
+        0.768,
+        "Bridge",
+        "And it sounds like freedom"
+      ],
+      [
+        0.772,
+        "Bridge",
+        "And it's headed our way"
+      ],
+      [
+        0.778,
+        "Bridge",
+        "I can hear a sound"
+      ],
+      [
+        0.785,
+        "Bridge",
+        "The abundance of rain"
+      ],
+      [
+        0.789,
+        "Bridge",
+        "And it sounds like provision"
+      ],
+      [
+        0.793,
+        "Bridge",
+        "And it's headed our way"
+      ],
+      [
+        0.958,
+        "Ending",
+        "'Cause I can see a cloud"
+      ],
+      [
+        0.962,
+        "Ending",
+        "It's heavy with rain"
+      ],
+      [
+        0.966,
+        "Ending",
+        "And it looks like freedom"
+      ],
+      [
+        0.97,
+        "Ending",
+        "And it's headed our way"
+      ],
+      [
+        0.975,
+        "Ending",
+        "I can see a cloud"
+      ],
+      [
+        0.979,
+        "Ending",
+        "Heavy with rain"
+      ],
+      [
+        0.983,
+        "Ending",
+        "And it looks like Jesus"
+      ],
+      [
+        0.987,
+        "Ending",
+        "It's headed our way"
+      ]
+    ],
+    "sosogood": [
+      [
+        0.035,
+        "Verse 1",
+        "This is my story"
+      ],
+      [
+        0.054,
+        "Verse 1",
+        "I'll testify"
+      ],
+      [
+        0.072,
+        "Verse 1",
+        "The blessings on blessings"
+      ],
+      [
+        0.091,
+        "Verse 1",
+        "You've poured on my life"
+      ],
+      [
+        0.109,
+        "Verse 1",
+        "When I start remembering"
+      ],
+      [
+        0.128,
+        "Verse 1",
+        "How good You've been"
+      ],
+      [
+        0.147,
+        "Verse 2",
+        "Fear turns to worship"
+      ],
+      [
+        0.165,
+        "Verse 2",
+        "Tears turn to praise"
+      ],
+      [
+        0.184,
+        "Verse 2",
+        "Chains of depression"
+      ],
+      [
+        0.202,
+        "Verse 2",
+        "Broken by grace"
+      ],
+      [
+        0.221,
+        "Verse 2",
+        "When I start remembering"
+      ],
+      [
+        0.24,
+        "Verse 2",
+        "How good You've been"
+      ],
+      [
+        0.258,
+        "Chorus",
+        "You've been"
+      ],
+      [
+        0.277,
+        "Chorus",
+        "So so so so so so good to me"
+      ],
+      [
+        0.295,
+        "Chorus",
+        "You've been"
+      ],
+      [
+        0.314,
+        "Chorus",
+        "So so so so so so good to me"
+      ],
+      [
+        0.333,
+        "Verse 3",
+        "The enemy's weapons"
+      ],
+      [
+        0.351,
+        "Verse 3",
+        "Fall to the ground"
+      ],
+      [
+        0.37,
+        "Verse 3",
+        "Armies of heaven"
+      ],
+      [
+        0.388,
+        "Verse 3",
+        "Always surround"
+      ],
+      [
+        0.407,
+        "Verse 3",
+        "When I start remembering"
+      ],
+      [
+        0.426,
+        "Verse 4",
+        "How You carried my cross"
+      ],
+      [
+        0.444,
+        "Verse 4",
+        "You called me by name"
+      ],
+      [
+        0.463,
+        "Verse 4",
+        "Loved me like I was"
+      ],
+      [
+        0.481,
+        "Verse 4",
+        "But You didn't leave me that way"
+      ],
+      [
+        0.5,
+        "Verse 4",
+        "Was dead now I live"
+      ],
+      [
+        0.519,
+        "Verse 4",
+        "Yeah that's what You did"
+      ],
+      [
+        0.537,
+        "Chorus",
+        "You've been"
+      ],
+      [
+        0.556,
+        "Chorus",
+        "So so so so so so good to me"
+      ],
+      [
+        0.574,
+        "Chorus",
+        "You've been"
+      ],
+      [
+        0.593,
+        "Chorus",
+        "So so so so so so good to me"
+      ],
+      [
+        0.612,
+        "Chorus",
+        "From morning to night"
+      ],
+      [
+        0.63,
+        "Chorus",
+        "The lows and the highs"
+      ],
+      [
+        0.649,
+        "Chorus",
+        "I look back on my life and all that I see"
+      ],
+      [
+        0.667,
+        "Chorus",
+        "That You've been"
+      ],
+      [
+        0.686,
+        "Chorus",
+        "So so so so so so good to me"
+      ],
+      [
+        0.705,
+        "Bridge",
+        "When I say God is good"
+      ],
+      [
+        0.723,
+        "Bridge",
+        "You say all the time"
+      ],
+      [
+        0.742,
+        "Bridge",
+        "When I say all the time"
+      ],
+      [
+        0.76,
+        "Bridge",
+        "You say God is good"
+      ],
+      [
+        0.779,
+        "Chorus",
+        "So so so so so so good to me"
+      ],
+      [
+        0.798,
+        "Chorus",
+        "You've been"
+      ],
+      [
+        0.816,
+        "Chorus",
+        "So so so so so so good to me"
+      ],
+      [
+        0.835,
+        "Chorus",
+        "From morning to night"
+      ],
+      [
+        0.853,
+        "Chorus",
+        "The lows and the highs"
+      ],
+      [
+        0.872,
+        "Chorus",
+        "I look back on my life and all that I see"
+      ],
+      [
+        0.891,
+        "Chorus",
+        "From morning to night"
+      ],
+      [
+        0.909,
+        "Chorus",
+        "The lows and the highs"
+      ],
+      [
+        0.928,
+        "Chorus",
+        "I look back on my life and all that I see"
+      ],
+      [
+        0.946,
+        "Chorus",
+        "That You've been"
+      ],
+      [
+        0.965,
+        "Chorus",
+        "So so so so so so good to me"
+      ]
+    ],
+    "whoelse": [
+      [
+        0.035,
+        "Verse 1",
+        "I am an instrument of exaltation"
+      ],
+      [
+        0.054,
+        "Verse 1",
+        "And I was born to lift Your name above all names"
+      ],
+      [
+        0.073,
+        "Verse 1",
+        "You hear the melody of all creation"
+      ],
+      [
+        0.092,
+        "Verse 1",
+        "But there's a song of praise that only I can bring"
+      ],
+      [
+        0.111,
+        "Chorus",
+        "Who else is worthy who else is worthy"
+      ],
+      [
+        0.13,
+        "Chorus",
+        "There is no one only You Jesus"
+      ],
+      [
+        0.149,
+        "Chorus",
+        "Who else is worthy who else is worthy"
+      ],
+      [
+        0.168,
+        "Chorus",
+        "There is no one only You Jesus"
+      ],
+      [
+        0.187,
+        "Verse 2",
+        "You are the infinite God of the ages"
+      ],
+      [
+        0.206,
+        "Verse 2",
+        "Yet You chose to make my heart Your dwelling place"
+      ],
+      [
+        0.225,
+        "Verse 2",
+        "You healed my brokenness showed me Your glory"
+      ],
+      [
+        0.244,
+        "Verse 2",
+        "So I have songs of thanks not even angels sing"
+      ],
+      [
+        0.263,
+        "Chorus",
+        "Who else is worthy who else is worthy"
+      ],
+      [
+        0.282,
+        "Chorus",
+        "There is no one only You Jesus"
+      ],
+      [
+        0.301,
+        "Chorus",
+        "Who else is worthy who else is worthy"
+      ],
+      [
+        0.32,
+        "Chorus",
+        "There is no one only You Jesus"
+      ],
+      [
+        0.339,
+        "Chorus",
+        "Who else is worthy who else is worthy"
+      ],
+      [
+        0.358,
+        "Chorus",
+        "There is no one only You Jesus"
+      ],
+      [
+        0.377,
+        "Chorus",
+        "Who else is worthy who else is worthy"
+      ],
+      [
+        0.396,
+        "Chorus",
+        "There is no one only You Jesus"
+      ],
+      [
+        0.415,
+        "Bridge",
+        "Lamb of God anointed one"
+      ],
+      [
+        0.434,
+        "Bridge",
+        "Who was and is and is to come"
+      ],
+      [
+        0.453,
+        "Bridge",
+        "Seated on the throne above"
+      ],
+      [
+        0.472,
+        "Bridge",
+        "Holy holy"
+      ],
+      [
+        0.491,
+        "Bridge",
+        "Righteous One who shed His blood"
+      ],
+      [
+        0.509,
+        "Bridge",
+        "You proved to us the Father's love"
+      ],
+      [
+        0.528,
+        "Bridge",
+        "Jesus Christ be lifted up"
+      ],
+      [
+        0.547,
+        "Bridge",
+        "Holy holy"
+      ],
+      [
+        0.566,
+        "Bridge",
+        "Lamb of God anointed one"
+      ],
+      [
+        0.585,
+        "Bridge",
+        "Who was and is and is to come"
+      ],
+      [
+        0.604,
+        "Bridge",
+        "Seated on the throne above"
+      ],
+      [
+        0.623,
+        "Bridge",
+        "Holy holy"
+      ],
+      [
+        0.642,
+        "Bridge",
+        "Righteous One who shed His blood"
+      ],
+      [
+        0.661,
+        "Bridge",
+        "You proved to us the Father's love"
+      ],
+      [
+        0.68,
+        "Bridge",
+        "Jesus Christ be lifted up"
+      ],
+      [
+        0.699,
+        "Bridge",
+        "Holy holy"
+      ],
+      [
+        0.718,
+        "Bridge",
+        "Lamb of God anointed one"
+      ],
+      [
+        0.737,
+        "Bridge",
+        "Who was and is and is to come"
+      ],
+      [
+        0.756,
+        "Bridge",
+        "Seated on the throne above"
+      ],
+      [
+        0.775,
+        "Bridge",
+        "Holy holy"
+      ],
+      [
+        0.794,
+        "Bridge",
+        "Righteous One who shed His blood"
+      ],
+      [
+        0.813,
+        "Bridge",
+        "You proved to us the Father's love"
+      ],
+      [
+        0.832,
+        "Bridge",
+        "Jesus Christ be lifted up"
+      ],
+      [
+        0.851,
+        "Bridge",
+        "Holy holy"
+      ],
+      [
+        0.87,
+        "Chorus",
+        "Who else is worthy who else is worthy"
+      ],
+      [
+        0.889,
+        "Chorus",
+        "There is no one only You Jesus"
+      ],
+      [
+        0.908,
+        "Chorus",
+        "Who else is worthy who else is worthy"
+      ],
+      [
+        0.927,
+        "Chorus",
+        "There is no one only You Jesus"
+      ],
+      [
+        0.946,
+        "Tag",
+        "Holy holy"
+      ],
+      [
+        0.965,
+        "Tag",
+        "Holy holy"
+      ]
+    ],
+    "anotherone": [
+      [
+        0.035,
+        "Verse 1",
+        "You do everything on purpose"
+      ],
+      [
+        0.047,
+        "Verse 1",
+        "I can feel Your Spirit stirring"
+      ],
+      [
+        0.059,
+        "Verse 1",
+        "I've been praying You've been working"
+      ],
+      [
+        0.07,
+        "Verse 1",
+        "Working it all for good"
+      ],
+      [
+        0.082,
+        "Verse 2",
+        "Fan the flame and keep it burning"
+      ],
+      [
+        0.094,
+        "Verse 2",
+        "You're refining in the furnace"
+      ],
+      [
+        0.106,
+        "Verse 2",
+        "All the waiting will be worth it"
+      ],
+      [
+        0.117,
+        "Verse 2",
+        "'Cause You're working it all for good"
+      ],
+      [
+        0.129,
+        "Chorus",
+        "Miracle after miracle"
+      ],
+      [
+        0.141,
+        "Chorus",
+        "Open door after open door"
+      ],
+      [
+        0.153,
+        "Chorus",
+        "Here it comes"
+      ],
+      [
+        0.164,
+        "Chorus",
+        "So get ready for another one"
+      ],
+      [
+        0.176,
+        "Chorus",
+        "'Cause another one is on the way"
+      ],
+      [
+        0.188,
+        "Chorus",
+        "Miracle after miracle"
+      ],
+      [
+        0.2,
+        "Chorus",
+        "Open door after open door"
+      ],
+      [
+        0.212,
+        "Chorus",
+        "Here it comes"
+      ],
+      [
+        0.223,
+        "Chorus",
+        "So get ready for another one"
+      ],
+      [
+        0.235,
+        "Chorus",
+        "'Cause another one is on the way"
+      ],
+      [
+        0.247,
+        "Verse 3",
+        "Rushing wind and living water"
+      ],
+      [
+        0.259,
+        "Verse 3",
+        "You're the God of signs and God of wonders"
+      ],
+      [
+        0.27,
+        "Verse 3",
+        "If You will it what can stop it"
+      ],
+      [
+        0.282,
+        "Verse 3",
+        "'Cause You're working it all for good"
+      ],
+      [
+        0.294,
+        "Verse 3",
+        "Yea You're working it all for good"
+      ],
+      [
+        0.306,
+        "Chorus",
+        "Miracle after miracle"
+      ],
+      [
+        0.318,
+        "Chorus",
+        "Open door after open door"
+      ],
+      [
+        0.329,
+        "Chorus",
+        "Here it comes"
+      ],
+      [
+        0.341,
+        "Chorus",
+        "So get ready for another one"
+      ],
+      [
+        0.353,
+        "Chorus",
+        "'Cause another one is on the way"
+      ],
+      [
+        0.365,
+        "Chorus",
+        "Miracle after miracle"
+      ],
+      [
+        0.376,
+        "Chorus",
+        "Open door after open door"
+      ],
+      [
+        0.388,
+        "Chorus",
+        "Here it comes"
+      ],
+      [
+        0.4,
+        "Chorus",
+        "So get ready for another one"
+      ],
+      [
+        0.412,
+        "Chorus",
+        "'Cause another one is on the way"
+      ],
+      [
+        0.423,
+        "Refrain",
+        "Another one another one"
+      ],
+      [
+        0.435,
+        "Refrain",
+        "Another one is on the way"
+      ],
+      [
+        0.447,
+        "Bridge",
+        "And if He told the sun when to rise"
+      ],
+      [
+        0.459,
+        "Bridge",
+        "And it did He will again"
+      ],
+      [
+        0.471,
+        "Bridge",
+        "And if He told the storm to be still"
+      ],
+      [
+        0.482,
+        "Bridge",
+        "And it did He will again"
+      ],
+      [
+        0.494,
+        "Bridge",
+        "And if He told the sea where to split"
+      ],
+      [
+        0.506,
+        "Bridge",
+        "And it did He will again"
+      ],
+      [
+        0.518,
+        "Bridge",
+        "And if He told the walls when to fall"
+      ],
+      [
+        0.529,
+        "Bridge",
+        "And they did He will again"
+      ],
+      [
+        0.541,
+        "Bridge",
+        "And if He told the chains when to break"
+      ],
+      [
+        0.553,
+        "Bridge",
+        "And they did He will again"
+      ],
+      [
+        0.565,
+        "Bridge",
+        "And if He told the bones come alive"
+      ],
+      [
+        0.577,
+        "Bridge",
+        "And they did He will again"
+      ],
+      [
+        0.588,
+        "Bridge",
+        "And if He told the stone roll away"
+      ],
+      [
+        0.6,
+        "Bridge",
+        "And it did He will again"
+      ],
+      [
+        0.612,
+        "Bridge",
+        "And if He told the grave let him go"
+      ],
+      [
+        0.624,
+        "Bridge",
+        "And it did He will again"
+      ],
+      [
+        0.635,
+        "Refrain",
+        "Another one another one"
+      ],
+      [
+        0.647,
+        "Refrain",
+        "Another one is on the way"
+      ],
+      [
+        0.659,
+        "Chorus",
+        "Miracle after miracle"
+      ],
+      [
+        0.671,
+        "Chorus",
+        "Open door after open door"
+      ],
+      [
+        0.682,
+        "Chorus",
+        "Here it comes"
+      ],
+      [
+        0.694,
+        "Chorus",
+        "So get ready for another one"
+      ],
+      [
+        0.706,
+        "Chorus",
+        "'Cause another one is on the way"
+      ],
+      [
+        0.718,
+        "Chorus",
+        "Miracle after miracle"
+      ],
+      [
+        0.73,
+        "Chorus",
+        "Open door after open door"
+      ],
+      [
+        0.741,
+        "Chorus",
+        "Here it comes"
+      ],
+      [
+        0.753,
+        "Chorus",
+        "So get ready for another one"
+      ],
+      [
+        0.765,
+        "Chorus",
+        "'Cause another one is on the way"
+      ],
+      [
+        0.777,
+        "Bridge",
+        "And if He told the stone roll away"
+      ],
+      [
+        0.788,
+        "Bridge",
+        "And it did He will again"
+      ],
+      [
+        0.8,
+        "Bridge",
+        "And if He told the grave let him go"
+      ],
+      [
+        0.812,
+        "Bridge",
+        "And it did He will again"
+      ],
+      [
+        0.824,
+        "Refrain",
+        "And again and again and again and again"
+      ],
+      [
+        0.836,
+        "Refrain",
+        "And again and again and again"
+      ],
+      [
+        0.847,
+        "Refrain",
+        "'Cause another one is on the way"
+      ],
+      [
+        0.859,
+        "Chorus",
+        "Miracle after miracle"
+      ],
+      [
+        0.871,
+        "Chorus",
+        "Open door after open door"
+      ],
+      [
+        0.883,
+        "Chorus",
+        "Here it comes"
+      ],
+      [
+        0.894,
+        "Chorus",
+        "So get ready for another one"
+      ],
+      [
+        0.906,
+        "Chorus",
+        "'Cause another one is on the way"
+      ],
+      [
+        0.918,
+        "Chorus",
+        "Miracle after miracle"
+      ],
+      [
+        0.93,
+        "Chorus",
+        "Open door after open door"
+      ],
+      [
+        0.941,
+        "Chorus",
+        "Here it comes"
+      ],
+      [
+        0.953,
+        "Chorus",
+        "So get ready for another one"
+      ],
+      [
+        0.965,
+        "Chorus",
+        "'Cause another one is on the way"
+      ]
+    ],
+    "whatagod": [
+      [
+        0.035,
+        "Verse 1",
+        "Who thought I'd find You at the lowest place"
+      ],
+      [
+        0.056,
+        "Verse 1",
+        "Who thought You'd feel me in the crowd"
+      ],
+      [
+        0.077,
+        "Verse 1",
+        "Who knew You'd make good of my mistakes"
+      ],
+      [
+        0.098,
+        "Verse 1",
+        "You're nothing like I thought You were You're better"
+      ],
+      [
+        0.12,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.141,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.162,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.183,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.204,
+        "Verse 2",
+        "I thought You'd show up for perfection"
+      ],
+      [
+        0.225,
+        "Verse 2",
+        "'Cause what kind of God looks for the lost"
+      ],
+      [
+        0.246,
+        "Verse 2",
+        "They say it's over for a sinner"
+      ],
+      [
+        0.267,
+        "Verse 2",
+        "But You said no it's not no it's not"
+      ],
+      [
+        0.289,
+        "Verse 2",
+        "You say no it's not no it's not"
+      ],
+      [
+        0.31,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.331,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.352,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.373,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.394,
+        "Bridge",
+        "If the highest place I reach is at Your feet"
+      ],
+      [
+        0.415,
+        "Bridge",
+        "Then I've done it all"
+      ],
+      [
+        0.437,
+        "Bridge",
+        "If the best thing that I've seen is Your glory"
+      ],
+      [
+        0.458,
+        "Bridge",
+        "Then I've seen it all"
+      ],
+      [
+        0.479,
+        "Bridge",
+        "Your love has changed my life forever satisfied"
+      ],
+      [
+        0.5,
+        "Bridge",
+        "You are my everything"
+      ],
+      [
+        0.521,
+        "Bridge",
+        "If one word is the only thing You speak"
+      ],
+      [
+        0.542,
+        "Bridge",
+        "Then I've heard it all"
+      ],
+      [
+        0.563,
+        "Bridge",
+        "If I feel Your heart and never see Your hand"
+      ],
+      [
+        0.585,
+        "Bridge",
+        "I still have it all"
+      ],
+      [
+        0.606,
+        "Bridge",
+        "No treasure of this life could ever satisfy"
+      ],
+      [
+        0.627,
+        "Bridge",
+        "You are my everything"
+      ],
+      [
+        0.648,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.669,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.69,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.711,
+        "Chorus",
+        "What a God what a God"
+      ],
+      [
+        0.733,
+        "Bridge",
+        "If the highest place I reach is at Your feet"
+      ],
+      [
+        0.754,
+        "Bridge",
+        "Then I've done it all"
+      ],
+      [
+        0.775,
+        "Bridge",
+        "If the best thing that I've seen is Your glory"
+      ],
+      [
+        0.796,
+        "Bridge",
+        "Then I've seen it all"
+      ],
+      [
+        0.817,
+        "Bridge",
+        "Your love has changed my life forever satisfied"
+      ],
+      [
+        0.838,
+        "Bridge",
+        "You are my everything"
+      ],
+      [
+        0.859,
+        "Bridge",
+        "If one word is the only thing You speak"
+      ],
+      [
+        0.88,
+        "Bridge",
+        "Then I've heard it all"
+      ],
+      [
+        0.902,
+        "Bridge",
+        "If I feel Your heart and never see Your hand"
+      ],
+      [
+        0.923,
+        "Bridge",
+        "I still have it all"
+      ],
+      [
+        0.944,
+        "Bridge",
+        "No treasure of this life could ever satisfy"
+      ],
+      [
+        0.965,
+        "Bridge",
+        "You are my everything"
+      ]
+    ],
+    "doitagain": [
+      [
+        0.035,
+        "Verse 1",
+        "Walking around these walls"
+      ],
+      [
+        0.048,
+        "Verse 1",
+        "I thought by now they'd fall"
+      ],
+      [
+        0.062,
+        "Verse 1",
+        "But you have never failed me yet"
+      ],
+      [
+        0.075,
+        "Verse 1",
+        "Waiting for change to come"
+      ],
+      [
+        0.089,
+        "Verse 1",
+        "Knowing the battle's won"
+      ],
+      [
+        0.102,
+        "Verse 1",
+        "For you have never failed me yet"
+      ],
+      [
+        0.116,
+        "Chorus",
+        "Your promise still stands"
+      ],
+      [
+        0.129,
+        "Chorus",
+        "Great is your faithfulness"
+      ],
+      [
+        0.143,
+        "Chorus",
+        "Faithfulness"
+      ],
+      [
+        0.156,
+        "Chorus",
+        "I'm still in your hands"
+      ],
+      [
+        0.17,
+        "Chorus",
+        "This is my confidence"
+      ],
+      [
+        0.183,
+        "Chorus",
+        "You've never failed me yet"
+      ],
+      [
+        0.197,
+        "Verse 2",
+        "I know the night won't last"
+      ],
+      [
+        0.21,
+        "Verse 2",
+        "Your word will come to pass"
+      ],
+      [
+        0.224,
+        "Verse 2",
+        "My heart will sing your praise again"
+      ],
+      [
+        0.237,
+        "Verse 2",
+        "Jesus you're still enough"
+      ],
+      [
+        0.251,
+        "Verse 2",
+        "Keep me within your love"
+      ],
+      [
+        0.264,
+        "Verse 2",
+        "My heart will sing your praise again"
+      ],
+      [
+        0.278,
+        "Chorus",
+        "Your promise still stands"
+      ],
+      [
+        0.291,
+        "Chorus",
+        "Great is your faithfulness"
+      ],
+      [
+        0.305,
+        "Chorus",
+        "Faithfulness"
+      ],
+      [
+        0.318,
+        "Chorus",
+        "I'm still in your hands"
+      ],
+      [
+        0.332,
+        "Chorus",
+        "This is my confidence"
+      ],
+      [
+        0.345,
+        "Chorus",
+        "You've never failed me yet"
+      ],
+      [
+        0.358,
+        "Chorus",
+        "Your promise still stands"
+      ],
+      [
+        0.372,
+        "Chorus",
+        "Great is your faithfulness"
+      ],
+      [
+        0.385,
+        "Chorus",
+        "Faithfulness"
+      ],
+      [
+        0.399,
+        "Chorus",
+        "I'm still in your hands"
+      ],
+      [
+        0.412,
+        "Chorus",
+        "This is my confidence"
+      ],
+      [
+        0.426,
+        "Chorus",
+        "You've never failed me yet"
+      ],
+      [
+        0.439,
+        "Bridge",
+        "I've seen you move"
+      ],
+      [
+        0.453,
+        "Bridge",
+        "You move the mountains"
+      ],
+      [
+        0.466,
+        "Bridge",
+        "And I believe"
+      ],
+      [
+        0.48,
+        "Bridge",
+        "I'll see you do it again"
+      ],
+      [
+        0.493,
+        "Bridge",
+        "You made a way"
+      ],
+      [
+        0.507,
+        "Bridge",
+        "Where there was no way"
+      ],
+      [
+        0.52,
+        "Bridge",
+        "And I believe"
+      ],
+      [
+        0.534,
+        "Bridge",
+        "I'll see you do it again"
+      ],
+      [
+        0.547,
+        "Bridge",
+        "I've seen you move"
+      ],
+      [
+        0.561,
+        "Bridge",
+        "You move the mountains"
+      ],
+      [
+        0.574,
+        "Bridge",
+        "And I believe"
+      ],
+      [
+        0.588,
+        "Bridge",
+        "I'll see you do it again"
+      ],
+      [
+        0.601,
+        "Bridge",
+        "You made a way"
+      ],
+      [
+        0.615,
+        "Bridge",
+        "Where there was no way"
+      ],
+      [
+        0.628,
+        "Bridge",
+        "And I believe"
+      ],
+      [
+        0.642,
+        "Bridge",
+        "I'll see you do it again"
+      ],
+      [
+        0.655,
+        "Bridge",
+        "I've seen you move"
+      ],
+      [
+        0.668,
+        "Bridge",
+        "You move the mountains"
+      ],
+      [
+        0.682,
+        "Bridge",
+        "And I believe"
+      ],
+      [
+        0.695,
+        "Bridge",
+        "I'll see you do it again"
+      ],
+      [
+        0.709,
+        "Bridge",
+        "You made a way"
+      ],
+      [
+        0.722,
+        "Bridge",
+        "Where there was no way"
+      ],
+      [
+        0.736,
+        "Bridge",
+        "And I believe"
+      ],
+      [
+        0.749,
+        "Bridge",
+        "I'll see you do it again"
+      ],
+      [
+        0.763,
+        "Chorus",
+        "Your promise still stands"
+      ],
+      [
+        0.776,
+        "Chorus",
+        "Great is your faithfulness"
+      ],
+      [
+        0.79,
+        "Chorus",
+        "Faithfulness"
+      ],
+      [
+        0.803,
+        "Chorus",
+        "I'm still in your hands"
+      ],
+      [
+        0.817,
+        "Chorus",
+        "This is my confidence"
+      ],
+      [
+        0.83,
+        "Chorus",
+        "You've never failed me yet"
+      ],
+      [
+        0.844,
+        "Chorus",
+        "Your promise still stands"
+      ],
+      [
+        0.857,
+        "Chorus",
+        "Great is your faithfulness"
+      ],
+      [
+        0.871,
+        "Chorus",
+        "Faithfulness"
+      ],
+      [
+        0.884,
+        "Chorus",
+        "I'm still in your hands"
+      ],
+      [
+        0.898,
+        "Chorus",
+        "This is my confidence"
+      ],
+      [
+        0.911,
+        "Chorus",
+        "You've never failed me yet"
+      ],
+      [
+        0.925,
+        "Ending",
+        "You've never failed me yet"
+      ],
+      [
+        0.938,
+        "Ending",
+        "I never will forget"
+      ],
+      [
+        0.952,
+        "Ending",
+        "You've never failed me yet"
+      ],
+      [
+        0.965,
+        "Ending",
+        "I never will forget"
+      ]
+    ],
+    "faithfulness": [
+      [
+        0.035,
+        "Chorus",
+        "Your mercies are new every morning"
+      ],
+      [
+        0.054,
+        "Chorus",
+        "Your steadfast love will never end"
+      ],
+      [
+        0.072,
+        "Chorus",
+        "This hope won't fade in the evening"
+      ],
+      [
+        0.091,
+        "Chorus",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.109,
+        "Chorus",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.128,
+        "Tag",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.147,
+        "Verse 1",
+        "Every hour"
+      ],
+      [
+        0.165,
+        "Verse 1",
+        "Every minute of my life"
+      ],
+      [
+        0.184,
+        "Verse 1",
+        "Has been part of Your design"
+      ],
+      [
+        0.202,
+        "Verse 1",
+        "Lord the whole world's in Your hand"
+      ],
+      [
+        0.221,
+        "Verse 2",
+        "Every trial"
+      ],
+      [
+        0.24,
+        "Verse 2",
+        "Every battle that I face"
+      ],
+      [
+        0.258,
+        "Verse 2",
+        "God You've met me there with grace"
+      ],
+      [
+        0.277,
+        "Verse 2",
+        "Every part has served Your plan"
+      ],
+      [
+        0.295,
+        "Pre-Chorus",
+        "Through it all You've been so so good"
+      ],
+      [
+        0.314,
+        "Pre-Chorus",
+        "Kept Your word like You said You would"
+      ],
+      [
+        0.333,
+        "Chorus",
+        "Your mercies are new every morning"
+      ],
+      [
+        0.351,
+        "Chorus",
+        "Your steadfast love will never end"
+      ],
+      [
+        0.37,
+        "Chorus",
+        "This hope won't fade in the evening"
+      ],
+      [
+        0.388,
+        "Chorus",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.407,
+        "Chorus",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.426,
+        "Tag",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.444,
+        "Verse 3",
+        "Here and now"
+      ],
+      [
+        0.463,
+        "Verse 3",
+        "Looking back on where I've been"
+      ],
+      [
+        0.481,
+        "Verse 3",
+        "Still as good as You were then"
+      ],
+      [
+        0.5,
+        "Verse 3",
+        "There's no limit to Your love"
+      ],
+      [
+        0.519,
+        "Pre-Chorus",
+        "Through it all You've been so so good"
+      ],
+      [
+        0.537,
+        "Pre-Chorus",
+        "Kept Your word like You said You would"
+      ],
+      [
+        0.556,
+        "Chorus",
+        "Your mercies are new every morning"
+      ],
+      [
+        0.574,
+        "Chorus",
+        "Your steadfast love will never end"
+      ],
+      [
+        0.593,
+        "Chorus",
+        "This hope won't fade in the evening"
+      ],
+      [
+        0.612,
+        "Chorus",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.63,
+        "Chorus",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.649,
+        "Tag",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.667,
+        "Bridge",
+        "(Oh oh) Oh how great oh how great"
+      ],
+      [
+        0.686,
+        "Bridge",
+        "(Oh oh) Lord how great is Your faithfulness"
+      ],
+      [
+        0.705,
+        "Pre-Chorus",
+        "Through it all You've been so so good"
+      ],
+      [
+        0.723,
+        "Pre-Chorus",
+        "Kept Your word like You said You would"
+      ],
+      [
+        0.742,
+        "Pre-Chorus",
+        "Through it all You've been so so good"
+      ],
+      [
+        0.76,
+        "Pre-Chorus",
+        "Kept Your word like You said You would"
+      ],
+      [
+        0.779,
+        "Chorus",
+        "Your mercies are new every morning"
+      ],
+      [
+        0.798,
+        "Chorus",
+        "Your steadfast love will never end"
+      ],
+      [
+        0.816,
+        "Chorus",
+        "This hope won't fade in the evening"
+      ],
+      [
+        0.835,
+        "Chorus",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.853,
+        "Chorus",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.872,
+        "Chorus",
+        "Your mercies are new every morning"
+      ],
+      [
+        0.891,
+        "Chorus",
+        "Your steadfast love will never end"
+      ],
+      [
+        0.909,
+        "Chorus",
+        "This hope won't fade in the evening"
+      ],
+      [
+        0.928,
+        "Chorus",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.946,
+        "Chorus",
+        "Lord how great is Your faithfulness"
+      ],
+      [
+        0.965,
+        "Tag",
+        "Lord how great is Your faithfulness"
+      ]
+    ],
+    "holyground": [
+      [
+        0.035,
+        "Verse 1",
+        "Here as we wait seek Your face"
+      ],
+      [
+        0.059,
+        "Verse 1",
+        "Come and make Your throne upon our praise"
+      ],
+      [
+        0.084,
+        "Verse 1",
+        "Here in this place have Your way"
+      ],
+      [
+        0.108,
+        "Verse 1",
+        "The moment that we see You we are changed"
+      ],
+      [
+        0.133,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.157,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.182,
+        "Chorus",
+        "In wonder and surrender we fall down"
+      ],
+      [
+        0.206,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.231,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.255,
+        "Chorus",
+        "Let ev'ry burning heart be holy ground"
+      ],
+      [
+        0.28,
+        "Interlude",
+        "Holy ground"
+      ],
+      [
+        0.304,
+        "Verse 2",
+        "Here not by pow'r not by might"
+      ],
+      [
+        0.329,
+        "Verse 2",
+        "But only by the cross we come alive"
+      ],
+      [
+        0.353,
+        "Verse 2",
+        "Here we're undone overcome"
+      ],
+      [
+        0.378,
+        "Verse 2",
+        "By Heaven's love revealed before our eyes"
+      ],
+      [
+        0.402,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.427,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.451,
+        "Chorus",
+        "In wonder and surrender we fall down"
+      ],
+      [
+        0.476,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.5,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.524,
+        "Chorus",
+        "Let ev'ry burning heart be holy ground"
+      ],
+      [
+        0.549,
+        "Bridge",
+        "Chains fall fear bow"
+      ],
+      [
+        0.573,
+        "Bridge",
+        "Here now"
+      ],
+      [
+        0.598,
+        "Bridge",
+        "Jesus You change ev'rything"
+      ],
+      [
+        0.622,
+        "Bridge",
+        "Lives healed hope found"
+      ],
+      [
+        0.647,
+        "Bridge",
+        "Here now"
+      ],
+      [
+        0.671,
+        "Bridge",
+        "Jesus You change ev'rything"
+      ],
+      [
+        0.696,
+        "Bridge",
+        "Chains fall fear bow"
+      ],
+      [
+        0.72,
+        "Bridge",
+        "Here now"
+      ],
+      [
+        0.745,
+        "Bridge",
+        "Jesus You change ev'rything"
+      ],
+      [
+        0.769,
+        "Bridge",
+        "Lives healed hope found"
+      ],
+      [
+        0.794,
+        "Bridge",
+        "Here now"
+      ],
+      [
+        0.818,
+        "Bridge",
+        "Jesus You change ev'rything"
+      ],
+      [
+        0.843,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.867,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.892,
+        "Chorus",
+        "In wonder and surrender we fall down"
+      ],
+      [
+        0.916,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.941,
+        "Chorus",
+        "Show us Your glory"
+      ],
+      [
+        0.965,
+        "Chorus",
+        "Let ev'ry burning heart be holy ground"
+      ]
+    ],
+    "wereready": [
+      [
+        0.035,
+        "Verse 1",
+        "In the middle of the madness"
+      ],
+      [
+        0.051,
+        "Verse 1",
+        "You are not moved"
+      ],
+      [
+        0.067,
+        "Verse 1",
+        "In the desert You're the way"
+      ],
+      [
+        0.082,
+        "Verse 1",
+        "You are the truth"
+      ],
+      [
+        0.098,
+        "Verse 1",
+        "When all else fails"
+      ],
+      [
+        0.114,
+        "Verse 1",
+        "We know You will see us through"
+      ],
+      [
+        0.13,
+        "Pre-Chorus",
+        "Jesus lead us into"
+      ],
+      [
+        0.145,
+        "Pre-Chorus",
+        "Your promised land"
+      ],
+      [
+        0.161,
+        "Pre-Chorus",
+        "Jesus lead us"
+      ],
+      [
+        0.177,
+        "Pre-Chorus",
+        "Standing here hand in hand"
+      ],
+      [
+        0.193,
+        "Chorus",
+        "We're ready"
+      ],
+      [
+        0.208,
+        "Chorus",
+        "Ready for the change"
+      ],
+      [
+        0.224,
+        "Chorus",
+        "We're ready"
+      ],
+      [
+        0.24,
+        "Chorus",
+        "Come and have Your way"
+      ],
+      [
+        0.256,
+        "Chorus",
+        "We're hungry for Your healing"
+      ],
+      [
+        0.271,
+        "Chorus",
+        "We wanna see Your Kingdom here"
+      ],
+      [
+        0.287,
+        "Verse 2",
+        "When the world brings fear"
+      ],
+      [
+        0.303,
+        "Verse 2",
+        "Lord we bring Your peace"
+      ],
+      [
+        0.319,
+        "Verse 2",
+        "When lines divide"
+      ],
+      [
+        0.334,
+        "Verse 2",
+        "We bring Your unity"
+      ],
+      [
+        0.35,
+        "Verse 2",
+        "And with confidence"
+      ],
+      [
+        0.366,
+        "Verse 2",
+        "We sing from Your victory victory"
+      ],
+      [
+        0.382,
+        "Chorus",
+        "We're ready"
+      ],
+      [
+        0.398,
+        "Chorus",
+        "Ready for the change"
+      ],
+      [
+        0.413,
+        "Chorus",
+        "We're ready"
+      ],
+      [
+        0.429,
+        "Chorus",
+        "Come and have Your way"
+      ],
+      [
+        0.445,
+        "Chorus",
+        "We're hungry for Your healing"
+      ],
+      [
+        0.461,
+        "Chorus",
+        "We wanna see Your Kingdom here"
+      ],
+      [
+        0.476,
+        "Bridge",
+        "Let up there come down here"
+      ],
+      [
+        0.492,
+        "Bridge",
+        "Eyes to see ears to hear"
+      ],
+      [
+        0.508,
+        "Bridge",
+        "Hearts that love hands that pray"
+      ],
+      [
+        0.524,
+        "Bridge",
+        "Feet that move hope for today"
+      ],
+      [
+        0.539,
+        "Bridge",
+        "Come revive what's been dead"
+      ],
+      [
+        0.555,
+        "Bridge",
+        "Fill us with words You said"
+      ],
+      [
+        0.571,
+        "Bridge",
+        "Let those words come to life"
+      ],
+      [
+        0.587,
+        "Bridge",
+        "'Til we're walking in Your light"
+      ],
+      [
+        0.602,
+        "Bridge",
+        "Let up there come down here"
+      ],
+      [
+        0.618,
+        "Bridge",
+        "Eyes to see ears to hear"
+      ],
+      [
+        0.634,
+        "Bridge",
+        "Hearts that love hands that pray"
+      ],
+      [
+        0.65,
+        "Bridge",
+        "Feet that move hope for today"
+      ],
+      [
+        0.666,
+        "Bridge",
+        "Come revive what's been dead"
+      ],
+      [
+        0.681,
+        "Bridge",
+        "Fill us with words You said"
+      ],
+      [
+        0.697,
+        "Bridge",
+        "Let those words come to life"
+      ],
+      [
+        0.713,
+        "Bridge",
+        "'Til we're walking in Your light"
+      ],
+      [
+        0.729,
+        "Pre-Chorus",
+        "Jesus lead us into"
+      ],
+      [
+        0.744,
+        "Pre-Chorus",
+        "Your promised land"
+      ],
+      [
+        0.76,
+        "Pre-Chorus",
+        "Jesus lead us"
+      ],
+      [
+        0.776,
+        "Pre-Chorus",
+        "Standing here hand in hand"
+      ],
+      [
+        0.792,
+        "Chorus",
+        "We're ready"
+      ],
+      [
+        0.807,
+        "Chorus",
+        "Ready for the change"
+      ],
+      [
+        0.823,
+        "Chorus",
+        "We're ready"
+      ],
+      [
+        0.839,
+        "Chorus",
+        "Come and have Your way"
+      ],
+      [
+        0.855,
+        "Chorus",
+        "We're hungry for Your healing"
+      ],
+      [
+        0.87,
+        "Chorus",
+        "We wanna see Your Kingdom here"
+      ],
+      [
+        0.886,
+        "Chorus",
+        "We're ready"
+      ],
+      [
+        0.902,
+        "Chorus",
+        "Ready for the change"
+      ],
+      [
+        0.918,
+        "Chorus",
+        "We're ready"
+      ],
+      [
+        0.933,
+        "Chorus",
+        "Come and have Your way"
+      ],
+      [
+        0.949,
+        "Chorus",
+        "We're hungry for Your healing"
+      ],
+      [
+        0.965,
+        "Chorus",
+        "We wanna see Your Kingdom here"
+      ]
+    ],
+    "believeforit": [
+      [
+        0.035,
+        "Verse 1",
+        "They say this mountain can't be moved"
+      ],
+      [
+        0.058,
+        "Verse 1",
+        "They say these chains will never break"
+      ],
+      [
+        0.082,
+        "Verse 1",
+        "But they don't know You like we do"
+      ],
+      [
+        0.105,
+        "Verse 1",
+        "There is power in Your name"
+      ],
+      [
+        0.128,
+        "Verse 2",
+        "We've heard that there is no way through"
+      ],
+      [
+        0.151,
+        "Verse 2",
+        "We've heard the tide will never change"
+      ],
+      [
+        0.174,
+        "Verse 2",
+        "They haven't seen what You can do"
+      ],
+      [
+        0.198,
+        "Verse 2",
+        "There is power in Your name"
+      ],
+      [
+        0.221,
+        "Verse 2",
+        "So much power in Your name"
+      ],
+      [
+        0.244,
+        "Chorus",
+        "Move the immovable"
+      ],
+      [
+        0.267,
+        "Chorus",
+        "Break the unbreakable"
+      ],
+      [
+        0.291,
+        "Chorus",
+        "God we believe"
+      ],
+      [
+        0.314,
+        "Chorus",
+        "God we believe for it"
+      ],
+      [
+        0.337,
+        "Chorus",
+        "From the impossible"
+      ],
+      [
+        0.36,
+        "Chorus",
+        "We'll see a miracle"
+      ],
+      [
+        0.384,
+        "Chorus",
+        "God we believe"
+      ],
+      [
+        0.407,
+        "Chorus",
+        "God we believe for it"
+      ],
+      [
+        0.43,
+        "Verse 3",
+        "We know that hope is never lost"
+      ],
+      [
+        0.454,
+        "Verse 3",
+        "Oh for there is still an empty grave"
+      ],
+      [
+        0.477,
+        "Verse 3",
+        "God we believe no matter what"
+      ],
+      [
+        0.5,
+        "Verse 3",
+        "There is power in Your name"
+      ],
+      [
+        0.523,
+        "Verse 3",
+        "So much power in Your name"
+      ],
+      [
+        0.546,
+        "Chorus",
+        "Move the immovable"
+      ],
+      [
+        0.57,
+        "Chorus",
+        "Break the unbreakable"
+      ],
+      [
+        0.593,
+        "Chorus",
+        "God we believe"
+      ],
+      [
+        0.616,
+        "Chorus",
+        "God we believe for it"
+      ],
+      [
+        0.639,
+        "Chorus",
+        "From the impossible"
+      ],
+      [
+        0.663,
+        "Chorus",
+        "We'll see a miracle"
+      ],
+      [
+        0.686,
+        "Chorus",
+        "God we believe"
+      ],
+      [
+        0.709,
+        "Chorus",
+        "God we believe for it"
+      ],
+      [
+        0.733,
+        "Bridge",
+        "You are the way when there seems to be no way"
+      ],
+      [
+        0.756,
+        "Bridge",
+        "We trust in You God You have the final say"
+      ],
+      [
+        0.779,
+        "Bridge",
+        "You are the way when there seems to be no way"
+      ],
+      [
+        0.802,
+        "Bridge",
+        "We trust in You God You have the final say"
+      ],
+      [
+        0.826,
+        "Bridge",
+        "You are the way when there seems to be no way"
+      ],
+      [
+        0.849,
+        "Bridge",
+        "We trust in You God You have the final say"
+      ],
+      [
+        0.872,
+        "Vamp",
+        "You said it"
+      ],
+      [
+        0.895,
+        "Vamp",
+        "I believe it"
+      ],
+      [
+        0.918,
+        "Vamp",
+        "You said it"
+      ],
+      [
+        0.942,
+        "Vamp",
+        "It is done"
+      ],
+      [
+        0.965,
+        "Ending",
+        "God we believe for it"
+      ]
+    ],
+    "goodnessofgod": [
+      [
+        0.035,
+        "Verse 1",
+        "I love You Lord"
+      ],
+      [
+        0.052,
+        "Verse 1",
+        "Oh Your mercy never fails me"
+      ],
+      [
+        0.068,
+        "Verse 1",
+        "All my days"
+      ],
+      [
+        0.085,
+        "Verse 1",
+        "I've been held in Your hands"
+      ],
+      [
+        0.101,
+        "Verse 1",
+        "From the moment that I wake up"
+      ],
+      [
+        0.118,
+        "Verse 1",
+        "Until I lay my head"
+      ],
+      [
+        0.135,
+        "Verse 1",
+        "I will sing of the goodness of God"
+      ],
+      [
+        0.151,
+        "Chorus",
+        "All my life You have been faithful"
+      ],
+      [
+        0.168,
+        "Chorus",
+        "All my life You have been so so good"
+      ],
+      [
+        0.184,
+        "Chorus",
+        "With every breath that I am able"
+      ],
+      [
+        0.201,
+        "Chorus",
+        "I will sing of the goodness of God"
+      ],
+      [
+        0.218,
+        "Verse 2",
+        "I love Your voice"
+      ],
+      [
+        0.234,
+        "Verse 2",
+        "You have led me through the fire"
+      ],
+      [
+        0.251,
+        "Verse 2",
+        "In darkest night"
+      ],
+      [
+        0.267,
+        "Verse 2",
+        "You are close like no other"
+      ],
+      [
+        0.284,
+        "Verse 2",
+        "I've known You as a father"
+      ],
+      [
+        0.301,
+        "Verse 2",
+        "I've known You as a friend"
+      ],
+      [
+        0.317,
+        "Verse 2",
+        "I have lived in the goodness of God"
+      ],
+      [
+        0.334,
+        "Chorus",
+        "All my life You have been faithful"
+      ],
+      [
+        0.351,
+        "Chorus",
+        "All my life You have been so so good"
+      ],
+      [
+        0.367,
+        "Chorus",
+        "With every breath that I am able"
+      ],
+      [
+        0.384,
+        "Chorus",
+        "I will sing of the goodness of God"
+      ],
+      [
+        0.4,
+        "Bridge",
+        "Your goodness is running after"
+      ],
+      [
+        0.417,
+        "Bridge",
+        "It's running after me"
+      ],
+      [
+        0.434,
+        "Bridge",
+        "Your goodness is running after"
+      ],
+      [
+        0.45,
+        "Bridge",
+        "It's running after me"
+      ],
+      [
+        0.467,
+        "Bridge",
+        "With my life laid down"
+      ],
+      [
+        0.483,
+        "Bridge",
+        "I'm surrendered now"
+      ],
+      [
+        0.5,
+        "Bridge",
+        "I give You everything"
+      ],
+      [
+        0.517,
+        "Bridge",
+        "Your goodness is running after"
+      ],
+      [
+        0.533,
+        "Bridge",
+        "It's running after me"
+      ],
+      [
+        0.55,
+        "Bridge",
+        "Your goodness is running after"
+      ],
+      [
+        0.566,
+        "Bridge",
+        "It's running after me"
+      ],
+      [
+        0.583,
+        "Bridge",
+        "Your goodness is running after"
+      ],
+      [
+        0.6,
+        "Bridge",
+        "It's running after me"
+      ],
+      [
+        0.616,
+        "Bridge",
+        "With my life laid down"
+      ],
+      [
+        0.633,
+        "Bridge",
+        "I'm surrendered now"
+      ],
+      [
+        0.649,
+        "Bridge",
+        "I give You everything"
+      ],
+      [
+        0.666,
+        "Bridge",
+        "Your goodness is running after"
+      ],
+      [
+        0.683,
+        "Bridge",
+        "It's running after me"
+      ],
+      [
+        0.699,
+        "Chorus",
+        "All my life You have been faithful"
+      ],
+      [
+        0.716,
+        "Chorus",
+        "All my life You have been so so good"
+      ],
+      [
+        0.733,
+        "Chorus",
+        "With every breath that I am able"
+      ],
+      [
+        0.749,
+        "Chorus",
+        "I will sing of the goodness of God"
+      ],
+      [
+        0.766,
+        "Chorus",
+        "All my life You have been faithful"
+      ],
+      [
+        0.782,
+        "Chorus",
+        "All my life You have been so so good"
+      ],
+      [
+        0.799,
+        "Chorus",
+        "With every breath that I am able"
+      ],
+      [
+        0.816,
+        "Chorus",
+        "I will sing of the goodness of God"
+      ],
+      [
+        0.832,
+        "Bridge",
+        "Your goodness is running after"
+      ],
+      [
+        0.849,
+        "Bridge",
+        "It's running after me"
+      ],
+      [
+        0.865,
+        "Bridge",
+        "Your goodness is running after"
+      ],
+      [
+        0.882,
+        "Bridge",
+        "It's running after me"
+      ],
+      [
+        0.899,
+        "Bridge",
+        "With my life laid down"
+      ],
+      [
+        0.915,
+        "Bridge",
+        "I'm surrendered now"
+      ],
+      [
+        0.932,
+        "Bridge",
+        "I give You everything"
+      ],
+      [
+        0.948,
+        "Bridge",
+        "Your goodness is running after"
+      ],
+      [
+        0.965,
+        "Bridge",
+        "It's running after me"
+      ]
+    ],
+    "sovereign": [
+      [
+        0.03,
+        "Verse 1",
+        "Sovereign in the mountain air"
+      ],
+      [
+        0.1,
+        "Verse 1",
+        "Sovereign on the ocean floor"
+      ],
+      [
+        0.17,
+        "Verse 1",
+        "With me in the calm"
+      ],
+      [
+        0.23,
+        "Verse 1",
+        "With me in the storm"
+      ],
+      [
+        0.31,
+        "Verse 2",
+        "Sovereign in my greatest joy"
+      ],
+      [
+        0.38,
+        "Verse 2",
+        "Sovereign in my deepest cry"
+      ],
+      [
+        0.45,
+        "Verse 2",
+        "With me in the dark"
+      ],
+      [
+        0.51,
+        "Verse 2",
+        "With me at the dawn"
+      ],
+      [
+        0.59,
+        "Chorus",
+        "In Your everlasting arms"
+      ],
+      [
+        0.65,
+        "Chorus",
+        "All my pieces, all my parts"
+      ],
+      [
+        0.71,
+        "Chorus",
+        "You hold them in Your hands"
+      ],
+      [
+        0.78,
+        "Chorus",
+        "Whatever comes my way"
+      ],
+      [
+        0.84,
+        "Chorus",
+        "I will trust You, I will trust You"
+      ],
+      [
+        0.91,
+        "Outro",
+        "Sovereign, sovereign"
+      ],
+      [
+        0.95,
+        "Outro",
+        "I will trust You"
+      ]
+    ],
+    "ithankgod": [
+      [
+        0.03,
+        "Verse 1",
+        "Wandering into the night wanting a place to hide"
+      ],
+      [
+        0.063,
+        "Verse 1",
+        "This weary soul this bag of bones"
+      ],
+      [
+        0.096,
+        "Verse 1",
+        "I try with all of my might"
+      ],
+      [
+        0.129,
+        "Verse 1",
+        "But I just can't win the fight"
+      ],
+      [
+        0.162,
+        "Verse 1",
+        "I'm slowly drifting a vagabond"
+      ],
+      [
+        0.198,
+        "Pre-Chorus",
+        "And just when I ran out of the road"
+      ],
+      [
+        0.231,
+        "Pre-Chorus",
+        "I met a man I didn't know"
+      ],
+      [
+        0.264,
+        "Pre-Chorus",
+        "And He told me that I was not alone"
+      ],
+      [
+        0.301,
+        "Chorus",
+        "You picked me up You turned me around"
+      ],
+      [
+        0.334,
+        "Chorus",
+        "And placed my feet on solid ground"
+      ],
+      [
+        0.367,
+        "Chorus",
+        "I thank the Master I thank the Savior"
+      ],
+      [
+        0.4,
+        "Chorus",
+        "Because You healed my heart You changed my name"
+      ],
+      [
+        0.433,
+        "Chorus",
+        "Forever free I'm not the same"
+      ],
+      [
+        0.466,
+        "Chorus",
+        "I thank the Master I thank the Savior I thank God"
+      ],
+      [
+        0.503,
+        "Verse 2",
+        "I cannot deny what I've seen"
+      ],
+      [
+        0.536,
+        "Verse 2",
+        "Got no choice but to believe"
+      ],
+      [
+        0.569,
+        "Verse 2",
+        "My doubts are burnin' like ashes in the wind"
+      ],
+      [
+        0.602,
+        "Verse 2",
+        "So so long to my old friends burden and bitterness"
+      ],
+      [
+        0.635,
+        "Verse 2",
+        "You can just keep them moving"
+      ],
+      [
+        0.668,
+        "Verse 2",
+        "Nah you ain't welcome here"
+      ],
+      [
+        0.705,
+        "Pre-Chorus",
+        "From now till I walk streets of gold"
+      ],
+      [
+        0.738,
+        "Pre-Chorus",
+        "I'll sing of how You saved my soul"
+      ],
+      [
+        0.771,
+        "Pre-Chorus",
+        "This wayward son has found his way back home"
+      ],
+      [
+        0.815,
+        "Bridge",
+        "Hell lost another one I am free I am free I am free"
+      ],
+      [
+        0.865,
+        "Bridge",
+        "Hell lost another one I am free I am free I am free"
+      ],
+      [
+        0.915,
+        "Bridge",
+        "Hell lost another one I am free I am free"
+      ]
+    ],
+    "worthyofitall": [
+      [
+        0.04,
+        "Verse 1",
+        "All the saints and angels"
+      ],
+      [
+        0.1,
+        "Verse 1",
+        "Bow before Your throne"
+      ],
+      [
+        0.16,
+        "Verse 1",
+        "All the elders cast their crowns"
+      ],
+      [
+        0.22,
+        "Verse 1",
+        "Before the Lamb of God and sing"
+      ],
+      [
+        0.3,
+        "Chorus",
+        "You are worthy of it all"
+      ],
+      [
+        0.36,
+        "Chorus",
+        "You are worthy of it all"
+      ],
+      [
+        0.42,
+        "Chorus",
+        "For from You are all things"
+      ],
+      [
+        0.48,
+        "Chorus",
+        "And to You are all things"
+      ],
+      [
+        0.54,
+        "Chorus",
+        "You deserve the glory"
+      ],
+      [
+        0.6,
+        "Interlude",
+        "Singing oh"
+      ],
+      [
+        0.64,
+        "Interlude",
+        "Oh"
+      ],
+      [
+        0.68,
+        "Interlude",
+        "Oh"
+      ],
+      [
+        0.74,
+        "Bridge",
+        "Day and night night and day let incense arise"
+      ],
+      [
+        0.79,
+        "Bridge",
+        "Day and night night and day let incense arise"
+      ],
+      [
+        0.84,
+        "Bridge",
+        "Day and night night and day let incense arise"
+      ],
+      [
+        0.89,
+        "Bridge",
+        "Day and night night and day let incense arise"
+      ],
+      [
+        0.93,
+        "Interlude 2",
+        "Oh oh oh oh"
+      ],
+      [
+        0.96,
+        "Interlude 2",
+        "Oh oh oh oh"
+      ]
+    ]
+  }
+}
